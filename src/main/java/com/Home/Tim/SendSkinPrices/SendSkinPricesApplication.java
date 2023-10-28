@@ -17,7 +17,7 @@ public class SendSkinPricesApplication {
 
 		RestTemplate r = new RestTemplate();
 
-
+	//test
 		Thread t1 = new Thread(new Runnable() {
 			public void run()
 			{
