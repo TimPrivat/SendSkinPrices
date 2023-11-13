@@ -3,47 +3,96 @@ package com.Home.Tim.SendSkinPrices;
 import org.apache.commons.exec.CommandLine;
 import org.apache.commons.exec.DefaultExecutor;
 import org.apache.commons.exec.ExecuteException;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import org.json.JSONObject;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
+@Component
+@PropertySource("classpath:application.properties")
 @SpringBootApplication
 public class SendSkinPricesApplication {
+
+
+    private static final Logger logger = LogManager.getLogger("Logger");
+
+    //Default configuration
     public static int threads = 1;
     public static int mod = 0;
     public static boolean useVPN = false;
 
+
+    static String logpath;
+    static int workerid;
+
     public static void main(String[] args) throws InterruptedException, IOException, URISyntaxException {
-        SpringApplication.run(SendSkinPricesApplication.class, args);
+
+        // MainMapLookupapLookup.setMainArguments(args);
 
 
+        if (args.length > 0) {
 
 
+            useVPN = Boolean.parseBoolean(args[0]);
+            threads = Integer.parseInt(args[1]);
+            mod = Integer.parseInt(args[2]);
+
+        } else {
+
+            logger.info("No args found using default ones");
+            logger.debug("useVPN: " + useVPN);
+            logger.debug("threads: " + threads);
+            logger.debug("modulo: " + mod);
 
 
-        for (int i = 0; i < args.length; i++) {
-            System.out.println("Arg[" + i + "]: " + args[i]);
+        }
+       // String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
+        String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
+        logger.info("LogfilePath: "+logpath);
+
+
+        File logfile = new File(logpath);
+        if(logfile.length()==0){
+            logfile.createNewFile();
+
         }
 
-        useVPN = Boolean.parseBoolean(args[0]);
-        threads = Integer.parseInt(args[1]);
-        mod = Integer.parseInt(args[2]);
 
 
-        //test
+        org.apache.logging.log4j.ThreadContext.put("logFileName", logpath);
+
+
+        ConfigurableApplicationContext ctx = SpringApplication.run(SendSkinPricesApplication.class, args);
+
+        logger.debug("LogPath: " + logpath);
+        logger.debug("Mod: " + workerid);
+        logger.debug("Threads: "+threads);
+
+
+        //Print args
+        for (int i = 0; i < args.length; i++) {
+            logger.debug("Arg[" + i + "]: " + args[i]);
+        }
+
+
+
         if (useVPN) {
-            System.out.println("Using VPN!");
+            logger.debug("Using VPN!");
             Thread t1 = new Thread(new Runnable() {
                 public void run() {
                     runScript("sh /root/startup.sh");
@@ -53,47 +102,47 @@ public class SendSkinPricesApplication {
             t1.start();
 
         } else {
-            System.out.println("Using Default IP!");
+            logger.debug("Using Default IP!");
         }
-
+        //Delay for the VPN to connect
         Thread.sleep(10000);
         RestTemplate restTemplate = new RestTemplate();
-        System.out.println("The global IPv4 Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
+        logger.info("The global IPv4 Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
 
-
+        // Never give up, never what?
         while (true) {
 
 
             String allSkinsString = restTemplate.getForObject("http://hauptserver.ddns.net/GetAllSkinNames", String.class);
-        //    System.out.println(allSkinsString);
             List<String> allHashnames = Arrays.asList(allSkinsString.split("\\s*,\\s*"));
-            System.out.println("Listsize: " + allHashnames.size());
+            logger.info("Listsize: " + allHashnames.size());
 
 
             for (int i = 0; i < allHashnames.size(); i++) {
                 if (i % threads == mod) {
 
                     String hashname = allHashnames.get(i);
-                     System.out.println("["+i+"/"+allHashnames.size()+"]"+"Current HashName: " + hashname);
-                    //String normalisiert = normalisieren(hashname);
+                    logger.debug("[" + i + "/" + allHashnames.size() + "]" + "Current HashName: " + hashname);
                     String uri = "https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=" + hashname;// normalisiert;
 
-
                     URI u = new URI(uri);
-
-
                     HashMap<String, Object> result;
                     try {
                         result = restTemplate.getForObject(u, HashMap.class);
                     } catch (Exception e) {
-                        e.printStackTrace();
-                        Thread.sleep(61000);
+
+                        logger.error(e.getMessage());
+                        logger.debug("Generated URI: " + uri);
+                        logger.error("Waiting for 61 Minutes...");
+                        Thread.sleep(61000000);
+                        logger.error("Trying again");
                         result = restTemplate.getForObject(u, HashMap.class);
 
                     }
 
                     if (result.containsKey("lowest_price")) {
 
+                       // logger.debug("Determining lowest price");
                         String price = (String) result.get("lowest_price");
                         price = price.replaceAll(" ", "");
                         price = price.replaceAll(",", ".");
@@ -101,11 +150,17 @@ public class SendSkinPricesApplication {
                         price = price.replaceAll("-", "0");
                         Double pricedouble = Double.parseDouble(price);
 
-                        HashMap<String,Object> sendMap = new HashMap<>();
+                        HashMap<String, Object> sendMap = new HashMap<>();
 
                         //Fix Later
-                        String url = "http://hauptserver.ddns.net/updateSkin?SkinHash="+hashname+"&Steamprice="+pricedouble;
-                        restTemplate.postForObject(url,null,String.class);
+                        //..or dont haha
+                        String url = "http://hauptserver.ddns.net/updateSkin?SkinHash=" + hashname + "&Steamprice=" + pricedouble;
+                       // logger.debug("Sending skindata to Server: " + url);
+                        Map<String, Object> resultMap = restTemplate.postForObject(url, null, Map.class);
+                        logger.debug("Inserted Skin: " + resultMap);
+
+                    } else {
+                      //  logger.debug("Item has no Price... skipping!");
                     }
 
                     Thread.sleep(6000);
@@ -119,8 +174,9 @@ public class SendSkinPricesApplication {
 
 
     /**
+     * Run the given command
      * @param command
-     */
+     * */
     public static void runScript(String command) {
         String sCommandString = command;
         CommandLine oCmdLine = CommandLine.parse(sCommandString);
@@ -141,7 +197,6 @@ public class SendSkinPricesApplication {
 
 
     }
-
 
 
 }

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration  status="warn" name="CSGOItemHandler" >
+    <Properties>
+        <Property name="LOG_FILE">${ctx:logFileName}</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT" follow="true">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+        </Console>
+
+        <File name="FileAppender" fileName="${LOG_FILE}">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+        </File>
+
+
+    </Appenders>
+    <Loggers>
+        <Logger name="Logger" level="debug" additivity="false">
+           <AppenderRef ref="ConsoleAppender" />
+            <AppenderRef ref="FileAppender" />
+        </Logger>
+
+        <Root level="info">
+                 <AppenderRef ref="ConsoleAppender" />
+                 <AppenderRef ref="FileAppender" />
+             </Root>
+         </Loggers>
+     </Configuration>
