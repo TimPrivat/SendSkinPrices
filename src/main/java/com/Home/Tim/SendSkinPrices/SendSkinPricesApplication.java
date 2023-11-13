@@ -134,7 +134,7 @@ public class SendSkinPricesApplication {
                         logger.error(e.getMessage());
                         logger.debug("Generated URI: " + uri);
                         logger.error("Waiting for 61 Minutes...");
-                        Thread.sleep(61000000);
+                        Thread.sleep(3636000);
                         logger.error("Trying again");
                         result = restTemplate.getForObject(u, HashMap.class);
 
