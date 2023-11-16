@@ -12,6 +12,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
@@ -35,6 +36,8 @@ public class SendSkinPricesApplication {
     public static int threads = 1;
     public static int mod = 0;
     public static boolean useVPN = false;
+
+    public static String IP;
 
 
     static String logpath;
@@ -61,17 +64,16 @@ public class SendSkinPricesApplication {
 
 
         }
-       // String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
+        // String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
         String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
-        logger.info("LogfilePath: "+logpath);
+        logger.info("LogfilePath: " + logpath);
 
 
         File logfile = new File(logpath);
-        if(logfile.length()==0){
+        if (logfile.length() == 0) {
             logfile.createNewFile();
 
         }
-
 
 
         org.apache.logging.log4j.ThreadContext.put("logFileName", logpath);
@@ -81,14 +83,13 @@ public class SendSkinPricesApplication {
 
         logger.debug("LogPath: " + logpath);
         logger.debug("Mod: " + workerid);
-        logger.debug("Threads: "+threads);
+        logger.debug("Threads: " + threads);
 
 
         //Print args
         for (int i = 0; i < args.length; i++) {
             logger.debug("Arg[" + i + "]: " + args[i]);
         }
-
 
 
         if (useVPN) {
@@ -107,7 +108,9 @@ public class SendSkinPricesApplication {
         //Delay for the VPN to connect
         Thread.sleep(10000);
         RestTemplate restTemplate = new RestTemplate();
+        IP = restTemplate.getForObject("https://ipinfo.io/ip", String.class));
         logger.info("The global IPv4 Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
+
 
         // Never give up, never what?
         while (true) {
@@ -131,10 +134,49 @@ public class SendSkinPricesApplication {
                         result = restTemplate.getForObject(u, HashMap.class);
                     } catch (Exception e) {
 
+
                         logger.error(e.getMessage());
+                        logger.error(e.getStackTrace().toString());
                         logger.debug("Generated URI: " + uri);
-                        logger.error("Waiting for 61 Minutes...");
-                        Thread.sleep(3636000);
+
+
+                        if (e.getMessage().contains("502 Bad Gateway")) {
+
+
+
+                            String currentip = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
+                            logger.error("Current IP is: "+ currentip+ " Should be: "+IP);
+
+                            while (currentip != IP) {
+
+                                logger.error("Trying to reconnect to VPN");
+                                Thread t1 = new Thread(new Runnable() {
+                                    public void run() {
+                                        runScript("sh /root/startup.sh");
+
+                                    }
+                                });
+                                t1.start();
+                                //Delay for the VPN to connect
+                                Thread.sleep(10000);
+                                logger.error("Current IP is: "+ currentip+ " Should be: "+IP);
+
+
+                            }
+                            logger.error("Reconnected to VPN, continueing as usual...");
+
+                        } else if (e.getMessage().contains("429 Too Many Requests")) {
+
+                            logger.error("You sent too many requests to the Steammarket");
+                            logger.error("Waiting for 61 Minutes...");
+
+
+
+                            Thread.sleep(3636000);
+
+                        }
+
+
                         logger.error("Trying again");
                         result = restTemplate.getForObject(u, HashMap.class);
 
@@ -142,7 +184,7 @@ public class SendSkinPricesApplication {
 
                     if (result.containsKey("lowest_price")) {
 
-                       // logger.debug("Determining lowest price");
+                        // logger.debug("Determining lowest price");
                         String price = (String) result.get("lowest_price");
                         price = price.replaceAll(" ", "");
                         price = price.replaceAll(",", ".");
@@ -155,12 +197,12 @@ public class SendSkinPricesApplication {
                         //Fix Later
                         //..or dont haha
                         String url = "http://hauptserver.ddns.net/updateSkin?SkinHash=" + hashname + "&Steamprice=" + pricedouble;
-                       // logger.debug("Sending skindata to Server: " + url);
+                        // logger.debug("Sending skindata to Server: " + url);
                         Map<String, Object> resultMap = restTemplate.postForObject(url, null, Map.class);
                         logger.debug("Inserted Skin: " + resultMap);
 
                     } else {
-                      //  logger.debug("Item has no Price... skipping!");
+                        //  logger.debug("Item has no Price... skipping!");
                     }
 
                     Thread.sleep(6000);
@@ -175,8 +217,9 @@ public class SendSkinPricesApplication {
 
     /**
      * Run the given command
+     *
      * @param command
-     * */
+     */
     public static void runScript(String command) {
         String sCommandString = command;
         CommandLine oCmdLine = CommandLine.parse(sCommandString);
