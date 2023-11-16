@@ -12,6 +12,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
@@ -141,7 +142,7 @@ public class SendSkinPricesApplication {
 
 
                         if (e.getMessage().contains("502 Bad Gateway")) {
-
+                            //Reconnects to the VPN until it has the same ip as before
 
                             String currentip = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
                             logger.error("Current IP is: " + currentip + " Should be: " + IP);
@@ -174,9 +175,33 @@ public class SendSkinPricesApplication {
 
                         }
 
+                        boolean goOn = false;
+                        int waitTime = 10000; // Wait for 10 Seconds
 
-                        logger.error("Trying again");
+                        // Try again with increasing Watitime until it works
+                        while (!goOn) {
+
+                            try {
+
+                                logger.error("Trying again");
+
+                                ResponseEntity<String> response = restTemplate.getForEntity(u, String.class);
+                                if (response.getStatusCode().is2xxSuccessful())
+                                    goOn = true;
+
+                            } catch (Exception err) {
+
+                                logger.error(err.getMessage());
+                                logger.error("Failed");
+                                waitTime *= 2;
+                                logger.error("Increased WaitTime to: " + waitTime);
+
+                            }
+
+
+                        }
                         result = restTemplate.getForObject(u, HashMap.class);
+
 
                     }
 
