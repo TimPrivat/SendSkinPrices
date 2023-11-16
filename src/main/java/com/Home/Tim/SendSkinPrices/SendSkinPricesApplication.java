@@ -146,7 +146,7 @@ public class SendSkinPricesApplication {
                             String currentip = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
                             logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
-                            while (currentip != IP) {
+                            while (!currentip.equals(IP)) {
 
                                 logger.error("Trying to reconnect to VPN");
                                 Thread t1 = new Thread(new Runnable() {
@@ -157,7 +157,7 @@ public class SendSkinPricesApplication {
                                 });
                                 t1.start();
                                 //Delay for the VPN to connect
-                                Thread.sleep(10000);
+                                Thread.sleep(60000);
                                 logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
 
