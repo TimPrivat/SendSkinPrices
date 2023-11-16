@@ -108,7 +108,7 @@ public class SendSkinPricesApplication {
         //Delay for the VPN to connect
         Thread.sleep(10000);
         RestTemplate restTemplate = new RestTemplate();
-        IP = restTemplate.getForObject("https://ipinfo.io/ip", String.class));
+        IP = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
         logger.info("The global IPv4 Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
 
 
@@ -143,9 +143,8 @@ public class SendSkinPricesApplication {
                         if (e.getMessage().contains("502 Bad Gateway")) {
 
 
-
                             String currentip = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
-                            logger.error("Current IP is: "+ currentip+ " Should be: "+IP);
+                            logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
                             while (currentip != IP) {
 
@@ -159,7 +158,7 @@ public class SendSkinPricesApplication {
                                 t1.start();
                                 //Delay for the VPN to connect
                                 Thread.sleep(10000);
-                                logger.error("Current IP is: "+ currentip+ " Should be: "+IP);
+                                logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
 
                             }
@@ -169,7 +168,6 @@ public class SendSkinPricesApplication {
 
                             logger.error("You sent too many requests to the Steammarket");
                             logger.error("Waiting for 61 Minutes...");
-
 
 
                             Thread.sleep(3636000);
