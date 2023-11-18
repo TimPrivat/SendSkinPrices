@@ -195,6 +195,8 @@ public class SendSkinPricesApplication {
                                 logger.error("Failed");
                                 waitTime *= 2;
                                 logger.error("Increased WaitTime to: " + waitTime);
+                                logger.error("Waiting...");
+                                Thread.sleep(waitTime);
 
                             }
 
