@@ -121,119 +121,125 @@ public class SendSkinPricesApplication {
             List<String> allHashnames = Arrays.asList(allSkinsString.split("\\s*,\\s*"));
             logger.info("Listsize: " + allHashnames.size());
 
+            try {
 
-            for (int i = 0; i < allHashnames.size(); i++) {
-                if (i % threads == mod) {
+                for (int i = 0; i < allHashnames.size(); i++) {
+                    if (i % threads == mod) {
 
-                    String hashname = allHashnames.get(i);
-                    logger.debug("[" + i + "/" + allHashnames.size() + "]" + "Current HashName: " + hashname);
-                    String uri = "https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=" + hashname;// normalisiert;
+                        String hashname = allHashnames.get(i);
+                        logger.debug("[" + i + "/" + allHashnames.size() + "]" + "Current HashName: " + hashname);
+                        String uri = "https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=" + hashname;// normalisiert;
 
-                    URI u = new URI(uri);
-                    HashMap<String, Object> result;
-                    try {
-                        result = restTemplate.getForObject(u, HashMap.class);
-                    } catch (Exception e) {
-
-
-                        logger.error(e.getMessage());
-                        logger.error(e.getStackTrace().toString());
-                        logger.debug("Generated URI: " + uri);
+                        URI u = new URI(uri);
+                        HashMap<String, Object> result;
+                        try {
+                            result = restTemplate.getForObject(u, HashMap.class);
+                        } catch (Exception e) {
 
 
-                        if (e.getMessage().contains("502 Bad Gateway")) {
-                            //Reconnects to the VPN until it has the same ip as before
+                            logger.error(e.getMessage());
+                            logger.error(e.getStackTrace().toString());
+                            logger.debug("Generated URI: " + uri);
 
-                            String currentip = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
-                            logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
-                            while (!currentip.equals(IP)) {
+                            if (e.getMessage().contains("502 Bad Gateway")) {
+                                //Reconnects to the VPN until it has the same ip as before
 
-                                logger.error("Trying to reconnect to VPN");
-                                Thread t1 = new Thread(new Runnable() {
-                                    public void run() {
-                                        runScript("sh /root/startup.sh");
-
-                                    }
-                                });
-                                t1.start();
-                                //Delay for the VPN to connect
-                                Thread.sleep(60000);
+                                String currentip = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
                                 logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
+                                while (!currentip.equals(IP)) {
 
-                            }
-                            logger.error("Reconnected to VPN, continueing as usual...");
+                                    logger.error("Trying to reconnect to VPN");
+                                    Thread t1 = new Thread(new Runnable() {
+                                        public void run() {
+                                            runScript("sh /root/startup.sh");
 
-                        } else if (e.getMessage().contains("429 Too Many Requests")) {
+                                        }
+                                    });
+                                    t1.start();
+                                    //Delay for the VPN to connect
+                                    Thread.sleep(60000);
+                                    logger.error("Current IP is: " + currentip + " Should be: " + IP);
 
-                            logger.error("You sent too many requests to the Steammarket");
-                            logger.error("Waiting for 61 Minutes...");
+
+                                }
+                                logger.error("Reconnected to VPN, continueing as usual...");
+
+                            } else if (e.getMessage().contains("429 Too Many Requests")) {
+
+                                logger.error("You sent too many requests to the Steammarket");
+                                logger.error("Waiting for 61 Minutes...");
 
 
-                            Thread.sleep(3636000);
-
-                        }
-
-                        boolean goOn = false;
-                        int waitTime = 10000; // Wait for 10 Seconds
-
-                        // Try again with increasing Watitime until it works
-                        while (!goOn) {
-
-                            try {
-
-                                logger.error("Trying again");
-
-                                ResponseEntity<String> response = restTemplate.getForEntity(u, String.class);
-                                if (response.getStatusCode().is2xxSuccessful())
-                                    goOn = true;
-
-                            } catch (Exception err) {
-
-                                logger.error(err.getMessage());
-                                logger.error("Failed");
-                                waitTime *= 2;
-                                logger.error("Increased WaitTime to: " + waitTime);
-                                logger.error("Waiting...");
-                                Thread.sleep(waitTime);
+                                Thread.sleep(3636000);
 
                             }
 
+                            boolean goOn = false;
+                            int waitTime = 10000; // Wait for 10 Seconds
+
+                            // Try again with increasing Watitime until it works
+                            while (!goOn) {
+
+                                try {
+
+                                    logger.error("Trying again");
+
+                                    ResponseEntity<String> response = restTemplate.getForEntity(u, String.class);
+                                    if (response.getStatusCode().is2xxSuccessful())
+                                        goOn = true;
+
+                                } catch (Exception err) {
+
+                                    logger.error(err.getMessage());
+                                    logger.error("Failed");
+                                    logger.error("Current URL: " + uri);
+                                    waitTime *= 2;
+                                    logger.error("Increased WaitTime to: " + waitTime);
+                                    logger.error("Waiting...");
+                                    Thread.sleep(waitTime);
+
+                                }
+
+
+                            }
+                            result = restTemplate.getForObject(u, HashMap.class);
+
 
                         }
-                        result = restTemplate.getForObject(u, HashMap.class);
 
+                        if (result.containsKey("lowest_price")) {
 
+                            // logger.debug("Determining lowest price");
+                            String price = (String) result.get("lowest_price");
+                            price = price.replaceAll(" ", "");
+                            price = price.replaceAll(",", ".");
+                            price = price.replaceAll("€", "");
+                            price = price.replaceAll("-", "0");
+                            Double pricedouble = Double.parseDouble(price);
+
+                            HashMap<String, Object> sendMap = new HashMap<>();
+
+                            //Fix Later
+                            //..or dont haha
+                            String url = "http://hauptserver.ddns.net/updateSkin?SkinHash=" + hashname + "&Steamprice=" + pricedouble;
+                            // logger.debug("Sending skindata to Server: " + url);
+                            Map<String, Object> resultMap = restTemplate.postForObject(url, null, Map.class);
+                            logger.debug("Inserted Skin: " + resultMap);
+
+                        } else {
+                            //  logger.debug("Item has no Price... skipping!");
+                        }
+
+                        Thread.sleep(6000);
                     }
-
-                    if (result.containsKey("lowest_price")) {
-
-                        // logger.debug("Determining lowest price");
-                        String price = (String) result.get("lowest_price");
-                        price = price.replaceAll(" ", "");
-                        price = price.replaceAll(",", ".");
-                        price = price.replaceAll("€", "");
-                        price = price.replaceAll("-", "0");
-                        Double pricedouble = Double.parseDouble(price);
-
-                        HashMap<String, Object> sendMap = new HashMap<>();
-
-                        //Fix Later
-                        //..or dont haha
-                        String url = "http://hauptserver.ddns.net/updateSkin?SkinHash=" + hashname + "&Steamprice=" + pricedouble;
-                        // logger.debug("Sending skindata to Server: " + url);
-                        Map<String, Object> resultMap = restTemplate.postForObject(url, null, Map.class);
-                        logger.debug("Inserted Skin: " + resultMap);
-
-                    } else {
-                        //  logger.debug("Item has no Price... skipping!");
-                    }
-
-                    Thread.sleep(6000);
                 }
-            }
+            }catch(Error error){
 
+                logger.error(error.getMessage());
+                logger.error("Restarting prematurely...");
+            }
         }
 
 
