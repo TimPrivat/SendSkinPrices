@@ -37,9 +37,9 @@ public class SendSkinPricesApplication {
     public static int threads = 1;
     public static int mod = 0;
     public static boolean useVPN = false;
-
     public static String IP;
 
+    public static int restartTimer = 300;
 
     static String logpath;
     static int workerid;
@@ -113,6 +113,36 @@ public class SendSkinPricesApplication {
         logger.info("The global IPv4 Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
 
 
+        /*
+         Start async Thread that counts down from 300 to 0
+         TImer is refreshed when a run was successful
+         if the program is not running for 5 minutes and is not waiting for a 429
+         Then a command is sent to restart the program entirely
+         */
+        Thread t2 = new Thread(new Runnable() {
+            public void run() {
+                while (true) {
+                    try {
+                        Thread.sleep(1000);
+
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+
+
+                    if (restartTimer-- <= 0) {
+                        logger.error("Sending restart Signal...");
+                        //send restart signal
+                    }
+
+                }
+
+
+            }
+        });
+        t2.start();
+
+
         // Never give up, never what?
         while (true) {
 
@@ -171,8 +201,10 @@ public class SendSkinPricesApplication {
                                 logger.error("You sent too many requests to the Steammarket");
                                 logger.error("Waiting for 61 Minutes...");
 
-
+                                //waiting and pausing the restart Thread
+                                t2.wait();
                                 Thread.sleep(3636000);
+                                t2.notify();
 
                             }
 
@@ -181,14 +213,17 @@ public class SendSkinPricesApplication {
 
                             // Try again with increasing Watitime until it works
                             while (!goOn) {
-
+                                t2.wait();
                                 try {
 
                                     logger.error("Trying again");
 
                                     ResponseEntity<String> response = restTemplate.getForEntity(u, String.class);
-                                    if (response.getStatusCode().is2xxSuccessful())
+                                    if (response.getStatusCode().is2xxSuccessful()){
                                         goOn = true;
+                                        t2.notify();
+                                    }
+
 
                                 } catch (Exception err) {
 
@@ -234,8 +269,10 @@ public class SendSkinPricesApplication {
 
                         Thread.sleep(6000);
                     }
+                    //reset restartTimer
+                    restartTimer =300;
                 }
-            }catch(Error error){
+            } catch (Error error) {
 
                 logger.error(error.getMessage());
                 logger.error("Restarting prematurely...");

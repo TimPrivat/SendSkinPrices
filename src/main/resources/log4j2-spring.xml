@@ -22,12 +22,14 @@
     <Loggers>
         <Logger name="Logger" level="debug" additivity="false">
             <!--         <AppenderRef ref="ConsoleAppender" /> -->
-                   <AppenderRef ref="FileAppender" />
+            <AppenderRef ref="ConsoleAppender" />
+            <AppenderRef ref="FileAppender" />
                </Logger>
 
                <Root level="info">
                       <!--   <AppenderRef ref="ConsoleAppender" /> -->
-                 <AppenderRef ref="FileAppender" />
+                   <AppenderRef ref="ConsoleAppender" />
+                   <AppenderRef ref="FileAppender" />
              </Root>
          </Loggers>
      </Configuration>

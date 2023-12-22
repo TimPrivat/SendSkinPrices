@@ -1,0 +1,1788 @@
+2023-11-21 17:16:43 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 43592 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 17:16:43 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 17:16:43 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.138 seconds (process running for 2.15)
+2023-11-21 17:16:43 DEBUG Logger:85 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 17:16:43 DEBUG Logger:86 - Mod: 0
+2023-11-21 17:16:43 DEBUG Logger:87 - Threads: 1
+2023-11-21 17:16:43 DEBUG Logger:92 - Arg[0]: false
+2023-11-21 17:16:43 DEBUG Logger:92 - Arg[1]: 1
+2023-11-21 17:16:43 DEBUG Logger:92 - Arg[2]: 0
+2023-11-21 17:19:39 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 19552 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 17:19:39 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 17:19:40 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.977 seconds (process running for 1.767)
+2023-11-21 17:19:40 DEBUG Logger:85 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 17:19:40 DEBUG Logger:86 - Mod: 0
+2023-11-21 17:19:40 DEBUG Logger:87 - Threads: 1
+2023-11-21 17:19:40 DEBUG Logger:92 - Arg[0]: false
+2023-11-21 17:19:40 DEBUG Logger:92 - Arg[1]: 1
+2023-11-21 17:19:40 DEBUG Logger:92 - Arg[2]: 0
+2023-11-21 17:26:02 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 31552 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 17:26:02 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 17:26:03 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.95 seconds (process running for 1.761)
+2023-11-21 17:26:03 DEBUG Logger:85 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 17:26:03 DEBUG Logger:86 - Mod: 0
+2023-11-21 17:26:03 DEBUG Logger:87 - Threads: 1
+2023-11-21 17:26:03 DEBUG Logger:92 - Arg[0]: false
+2023-11-21 17:26:03 DEBUG Logger:92 - Arg[1]: 1
+2023-11-21 17:26:03 DEBUG Logger:92 - Arg[2]: 0
+2023-11-21 17:59:07 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 40368 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 17:59:07 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 17:59:07 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.048 seconds (process running for 1.886)
+2023-11-21 17:59:07 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 17:59:07 DEBUG Logger:92 - Mod: 0
+2023-11-21 17:59:07 DEBUG Logger:93 - Threads: 1
+2023-11-21 17:59:07 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 17:59:07 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 17:59:07 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 17:59:08 DEBUG Logger:273 - Synced Proxies Sucessfully
+2023-11-21 17:59:08 DEBUG Logger:274 - Number of Proxies: 802
+2023-11-21 17:59:30 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 45464 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 17:59:30 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 17:59:30 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.979 seconds (process running for 1.877)
+2023-11-21 17:59:30 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 17:59:30 DEBUG Logger:92 - Mod: 0
+2023-11-21 17:59:30 DEBUG Logger:93 - Threads: 1
+2023-11-21 17:59:30 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 17:59:30 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 17:59:30 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 17:59:30 DEBUG Logger:273 - Synced Proxies Sucessfully
+2023-11-21 17:59:30 DEBUG Logger:274 - Number of Proxies: 802
+2023-11-21 17:59:51 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 45776 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 17:59:51 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 17:59:52 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.938 seconds (process running for 1.78)
+2023-11-21 17:59:52 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 17:59:52 DEBUG Logger:92 - Mod: 0
+2023-11-21 17:59:52 DEBUG Logger:93 - Threads: 1
+2023-11-21 17:59:52 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 17:59:52 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 17:59:52 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 17:59:53 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 17:59:54 INFO  Logger:124 - Listsize: 21579
+2023-11-21 17:59:54 DEBUG Logger:273 - Synced Proxies Sucessfully
+2023-11-21 17:59:54 DEBUG Logger:274 - Number of Proxies: 802
+2023-11-21 17:59:54 INFO  Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 17:59:54 DEBUG Logger:155 - [0/21579]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-21 18:00:00 ERROR Logger:241 - I/O error on POST request for "http://hauptserver.ddns.net/updateSkin": Connection refused: connect
+2023-11-21 18:00:00 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:00 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:06 ERROR Logger:241 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection refused: connect
+2023-11-21 18:00:06 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:06 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:11 ERROR Logger:241 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection refused: connect
+2023-11-21 18:00:11 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:12 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:17 ERROR Logger:241 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection refused: connect
+2023-11-21 18:00:17 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:17 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:22 ERROR Logger:241 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection refused: connect
+2023-11-21 18:00:22 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:23 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:28 ERROR Logger:241 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection refused: connect
+2023-11-21 18:00:28 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:28 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:33 ERROR Logger:241 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection refused: connect
+2023-11-21 18:00:33 ERROR Logger:242 - Restarting prematurely...
+2023-11-21 18:00:34 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:00:58 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 44196 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:00:58 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:00:58 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.0 seconds (process running for 1.836)
+2023-11-21 18:00:58 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:00:58 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:00:58 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:00:58 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:00:58 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:00:58 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:00:59 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:01:00 INFO  Logger:124 - Listsize: 21579
+2023-11-21 18:01:00 DEBUG Logger:273 - Synced Proxies Sucessfully
+2023-11-21 18:01:00 DEBUG Logger:274 - Number of Proxies: 798
+2023-11-21 18:01:01 INFO  Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:01:01 DEBUG Logger:155 - [0/21579]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-21 18:04:02 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 3544 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:04:02 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:04:02 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.948 seconds (process running for 1.832)
+2023-11-21 18:04:02 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:04:02 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:04:02 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:04:02 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:04:02 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:04:02 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:04:03 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:04:04 INFO  Logger:124 - Listsize: 21579
+2023-11-21 18:04:04 DEBUG Logger:275 - Synced Proxies Sucessfully
+2023-11-21 18:04:04 DEBUG Logger:276 - Number of Proxies: 803
+2023-11-21 18:04:04 ERROR Logger:243 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-21 18:04:04 ERROR Logger:244 - Restarting prematurely...
+2023-11-21 18:04:05 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:04:05 INFO  Logger:124 - Listsize: 21579
+2023-11-21 18:04:05 DEBUG Logger:275 - Synced Proxies Sucessfully
+2023-11-21 18:04:05 DEBUG Logger:276 - Number of Proxies: 803
+2023-11-21 18:04:06 ERROR Logger:243 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-21 18:04:06 ERROR Logger:244 - Restarting prematurely...
+2023-11-21 18:04:06 INFO  Logger:119 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:04:07 INFO  Logger:124 - Listsize: 21579
+2023-11-21 18:04:07 DEBUG Logger:275 - Synced Proxies Sucessfully
+2023-11-21 18:04:07 DEBUG Logger:276 - Number of Proxies: 803
+2023-11-21 18:06:21 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 33048 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:06:21 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:06:22 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.016 seconds (process running for 1.821)
+2023-11-21 18:06:22 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:06:22 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:06:22 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:06:22 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:06:22 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:06:22 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:06:23 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:06:24 INFO  Logger:127 - Listsize: 21579
+2023-11-21 18:06:24 DEBUG Logger:277 - Synced Proxies Sucessfully
+2023-11-21 18:06:24 DEBUG Logger:278 - Number of Proxies: 834
+2023-11-21 18:06:24 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-21 18:06:24 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:06:25 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:06:25 INFO  Logger:127 - Listsize: 21579
+2023-11-21 18:06:25 DEBUG Logger:277 - Synced Proxies Sucessfully
+2023-11-21 18:06:25 DEBUG Logger:278 - Number of Proxies: 834
+2023-11-21 18:12:22 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 18360 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:12:22 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:12:23 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.11 seconds (process running for 2.041)
+2023-11-21 18:12:23 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:12:23 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:12:23 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:12:23 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:12:23 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:12:23 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:12:23 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:12:24 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:12:24 DEBUG Logger:276 - Synced Proxies Sucessfully
+2023-11-21 18:12:24 DEBUG Logger:277 - Number of Proxies: 778
+2023-11-21 18:12:26 ERROR Logger:244 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-21 18:12:26 ERROR Logger:245 - Restarting prematurely...
+2023-11-21 18:12:26 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:12:27 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:12:27 DEBUG Logger:276 - Synced Proxies Sucessfully
+2023-11-21 18:12:27 DEBUG Logger:277 - Number of Proxies: 778
+2023-11-21 18:15:13 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 45712 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:15:13 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:15:14 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.164 seconds (process running for 2.147)
+2023-11-21 18:15:14 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:15:14 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:15:14 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:15:14 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:15:14 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:15:14 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:15:14 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:15:15 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:15:15 DEBUG Logger:277 - Synced Proxies Sucessfully
+2023-11-21 18:15:15 DEBUG Logger:278 - Number of Proxies: 830
+2023-11-21 18:15:16 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:15:16 DEBUG Logger:159 - [0/21579]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-21 18:15:17 DEBUG Logger:234 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=9.57, Success=true}
+2023-11-21 18:15:17 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:15:17 DEBUG Logger:159 - [1/21579]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-21 18:15:18 DEBUG Logger:234 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=15.3, Success=true}
+2023-11-21 18:15:18 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:15:18 DEBUG Logger:159 - [2/21579]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-21 18:15:19 DEBUG Logger:234 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.62, Success=true}
+2023-11-21 18:15:19 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:15:19 DEBUG Logger:159 - [3/21579]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-21 18:15:20 DEBUG Logger:234 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.96, Success=true}
+2023-11-21 18:15:20 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:15:20 DEBUG Logger:159 - [4/21579]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-21 18:15:21 DEBUG Logger:234 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.65, Success=true}
+2023-11-21 18:15:21 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:15:21 DEBUG Logger:159 - [5/21579]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-11-21 18:18:24 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 44284 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:18:24 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:18:25 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.137 seconds (process running for 2.212)
+2023-11-21 18:18:25 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:18:25 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:18:25 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:18:25 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:18:25 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:18:25 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:18:26 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:18:27 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:18:27 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:18:27 DEBUG Logger:279 - Number of Proxies: 835
+2023-11-21 18:18:28 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:28 DEBUG Logger:159 - [0/21579]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-21 18:18:29 DEBUG Logger:234 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=9.59, Success=true}
+2023-11-21 18:18:29 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:29 DEBUG Logger:159 - [1/21579]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-21 18:18:30 DEBUG Logger:234 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=15.3, Success=true}
+2023-11-21 18:18:30 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:30 DEBUG Logger:159 - [2/21579]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-21 18:18:31 DEBUG Logger:234 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.78, Success=true}
+2023-11-21 18:18:31 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:31 DEBUG Logger:159 - [3/21579]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-21 18:18:32 DEBUG Logger:234 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.96, Success=true}
+2023-11-21 18:18:32 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:32 DEBUG Logger:159 - [4/21579]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-21 18:18:33 DEBUG Logger:234 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.64, Success=true}
+2023-11-21 18:18:33 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:33 DEBUG Logger:159 - [5/21579]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-11-21 18:18:34 DEBUG Logger:234 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.8, Success=true}
+2023-11-21 18:18:34 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:34 DEBUG Logger:159 - [6/21579]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-11-21 18:18:35 DEBUG Logger:234 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=5.24, Success=true}
+2023-11-21 18:18:35 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:35 DEBUG Logger:159 - [7/21579]Current HashName: 2020%20RMR%20Challengers
+2023-11-21 18:18:36 DEBUG Logger:234 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.28, Success=true}
+2023-11-21 18:18:36 INFO  Logger:154 - The global IPv4 Address is: 154.6.99.184
+2023-11-21 18:18:36 DEBUG Logger:159 - [8/21579]Current HashName: 2020%20RMR%20Contenders
+2023-11-21 18:19:01 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 39380 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:19:01 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:19:02 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.213 seconds (process running for 2.181)
+2023-11-21 18:19:02 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:19:02 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:19:02 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:19:02 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:19:02 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:19:02 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:19:02 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:19:03 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:19:03 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:19:03 DEBUG Logger:279 - Number of Proxies: 835
+2023-11-21 18:19:07 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:19:07 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:19:07 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:19:08 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:19:08 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:19:08 DEBUG Logger:279 - Number of Proxies: 835
+2023-11-21 18:19:09 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:19:09 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:19:10 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:19:10 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:19:10 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:19:10 DEBUG Logger:279 - Number of Proxies: 835
+2023-11-21 18:19:11 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:19:11 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:19:12 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:19:12 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:19:12 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:19:12 DEBUG Logger:279 - Number of Proxies: 835
+2023-11-21 18:19:14 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:19:14 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:19:14 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:19:15 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:19:15 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:19:15 DEBUG Logger:279 - Number of Proxies: 835
+2023-11-21 18:19:16 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:19:16 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:19:17 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:20:09 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 44572 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:20:09 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:20:09 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.163 seconds (process running for 2.137)
+2023-11-21 18:20:09 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:20:09 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:20:09 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:20:09 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:20:09 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:20:09 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:20:10 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:20:11 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:20:11 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:20:11 DEBUG Logger:279 - Number of Proxies: 774
+2023-11-21 18:20:11 DEBUG Logger:142 - Current Proxy: 4.175.121.88:80
+2023-11-21 18:20:11 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 301 Moved Permanently"
+2023-11-21 18:20:11 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:20:11 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:20:12 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:20:12 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:20:12 DEBUG Logger:279 - Number of Proxies: 774
+2023-11-21 18:20:12 DEBUG Logger:142 - Current Proxy: 4.175.121.88:80
+2023-11-21 18:20:12 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 301 Moved Permanently"
+2023-11-21 18:20:12 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:20:12 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:20:13 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:20:13 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:20:13 DEBUG Logger:279 - Number of Proxies: 774
+2023-11-21 18:20:13 DEBUG Logger:142 - Current Proxy: 4.175.121.88:80
+2023-11-21 18:20:13 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 301 Moved Permanently"
+2023-11-21 18:20:13 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:20:13 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:20:14 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:20:14 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:20:14 DEBUG Logger:279 - Number of Proxies: 774
+2023-11-21 18:20:14 DEBUG Logger:142 - Current Proxy: 4.175.121.88:80
+2023-11-21 18:20:14 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 301 Moved Permanently"
+2023-11-21 18:20:14 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:20:15 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:20:15 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:20:15 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:20:15 DEBUG Logger:279 - Number of Proxies: 774
+2023-11-21 18:20:15 DEBUG Logger:142 - Current Proxy: 4.175.121.88:80
+2023-11-21 18:20:15 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 301 Moved Permanently"
+2023-11-21 18:20:15 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:23:09 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 44692 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:23:09 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:23:10 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.198 seconds (process running for 2.188)
+2023-11-21 18:23:10 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:23:10 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:23:10 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:23:10 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:23:10 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:23:10 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:23:12 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:23:44 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 41104 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:23:44 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:23:45 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.08 seconds (process running for 2.02)
+2023-11-21 18:23:45 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:23:45 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:23:45 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:23:45 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:23:45 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:23:45 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:23:46 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:24:05 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 41376 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:24:05 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:24:06 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.127 seconds (process running for 2.323)
+2023-11-21 18:24:06 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:24:06 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:24:06 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:24:06 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:24:06 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:24:06 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:24:07 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:24:13 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:24:14 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:24:14 DEBUG Logger:279 - Number of Proxies: 812
+2023-11-21 18:24:14 DEBUG Logger:142 - Current Proxy: 198.49.68.80:80
+2023-11-21 18:24:14 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:24:14 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:24:15 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:24:54 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 40740 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-21 18:24:54 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-21 18:24:55 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.118 seconds (process running for 2.11)
+2023-11-21 18:24:55 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-21 18:24:55 DEBUG Logger:92 - Mod: 0
+2023-11-21 18:24:55 DEBUG Logger:93 - Threads: 1
+2023-11-21 18:24:55 DEBUG Logger:98 - Arg[0]: false
+2023-11-21 18:24:55 DEBUG Logger:98 - Arg[1]: 1
+2023-11-21 18:24:55 DEBUG Logger:98 - Arg[2]: 0
+2023-11-21 18:24:55 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:24:56 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:24:56 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:24:56 DEBUG Logger:279 - Number of Proxies: 812
+2023-11-21 18:24:56 DEBUG Logger:142 - Current Proxy: 198.49.68.80:80
+2023-11-21 18:24:57 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:24:57 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:24:57 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:24:58 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:24:58 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:24:58 DEBUG Logger:279 - Number of Proxies: 812
+2023-11-21 18:24:58 DEBUG Logger:142 - Current Proxy: 198.49.68.80:80
+2023-11-21 18:24:59 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:24:59 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:24:59 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:25:01 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:25:01 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:25:01 DEBUG Logger:279 - Number of Proxies: 812
+2023-11-21 18:25:01 DEBUG Logger:142 - Current Proxy: 198.49.68.80:80
+2023-11-21 18:25:03 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:25:03 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:25:03 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-21 18:25:04 INFO  Logger:126 - Listsize: 21579
+2023-11-21 18:25:05 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-21 18:25:05 DEBUG Logger:279 - Number of Proxies: 812
+2023-11-21 18:25:05 DEBUG Logger:142 - Current Proxy: 198.49.68.80:80
+2023-11-21 18:25:07 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-21 18:25:07 ERROR Logger:246 - Restarting prematurely...
+2023-11-21 18:25:07 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:47 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 21996 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:48:47 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:48:47 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.246 seconds (process running for 2.382)
+2023-11-22 11:48:47 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:48:47 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:48:47 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:48:47 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:48:47 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:48:47 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:48:48 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:49 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:48:49 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:48:49 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:48:49 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:48:50 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-22 11:48:50 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:48:50 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:51 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:48:51 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:48:51 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:48:51 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:48:51 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-22 11:48:51 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:48:52 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:52 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:48:52 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:48:52 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:48:52 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:48:53 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-22 11:48:53 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:48:53 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:54 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:48:54 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:48:54 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:48:54 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:48:55 ERROR Logger:245 - 406 Not Acceptable: "{<EOL>  "error": "406",<EOL>  "request": "/ip",<EOL>  "data": "If you believe you've received this in error, please open a support request."<EOL>}<EOL>"
+2023-11-22 11:48:55 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:48:56 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:57 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:48:57 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:48:57 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:48:57 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:48:57 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-22 11:48:57 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:48:58 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:48:58 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:48:58 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:48:58 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:48:58 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:49:00 ERROR Logger:245 - 406 Not Acceptable: "{<EOL>  "error": "406",<EOL>  "request": "/ip",<EOL>  "data": "If you believe you've received this in error, please open a support request."<EOL>}<EOL>"
+2023-11-22 11:49:00 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:49:00 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:49:01 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:49:01 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:49:01 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:49:01 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:49:01 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-22 11:49:01 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:49:01 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:49:02 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:49:02 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:49:02 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:49:02 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:49:03 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-22 11:49:03 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:49:03 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:49:04 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:49:04 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:49:04 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:49:04 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:49:04 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-22 11:49:04 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:49:04 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:49:05 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:49:05 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:49:05 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:49:05 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:49:06 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 500 Internal Server Error"
+2023-11-22 11:49:06 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:49:06 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:49:06 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:49:07 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:49:07 DEBUG Logger:279 - Number of Proxies: 705
+2023-11-22 11:49:07 DEBUG Logger:142 - Current Proxy: 8.219.97.248:80
+2023-11-22 11:49:07 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-22 11:49:07 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:49:07 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:53:24 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 42152 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:53:24 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:53:24 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.01 seconds (process running for 1.852)
+2023-11-22 11:53:24 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:53:24 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:53:24 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:53:24 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:53:24 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:53:24 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:53:25 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:53:26 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:53:26 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:53:26 DEBUG Logger:279 - Number of Proxies: 711
+2023-11-22 11:53:26 DEBUG Logger:142 - Current Proxy: 109.254.114.51:9090
+2023-11-22 11:53:47 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection timed out: connect
+2023-11-22 11:53:47 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:53:47 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:53:48 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:53:48 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:53:48 DEBUG Logger:279 - Number of Proxies: 711
+2023-11-22 11:53:48 DEBUG Logger:142 - Current Proxy: 109.254.114.51:9090
+2023-11-22 11:54:09 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection timed out: connect
+2023-11-22 11:54:09 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:54:10 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:54:11 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:54:11 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:54:11 DEBUG Logger:279 - Number of Proxies: 711
+2023-11-22 11:54:11 DEBUG Logger:142 - Current Proxy: 109.254.114.51:9090
+2023-11-22 11:54:34 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 17528 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:54:34 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:54:35 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.989 seconds (process running for 1.847)
+2023-11-22 11:54:35 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:54:35 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:54:35 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:54:35 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:54:35 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:54:35 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:54:35 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:54:36 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:54:36 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:54:36 DEBUG Logger:279 - Number of Proxies: 747
+2023-11-22 11:54:36 DEBUG Logger:142 - Current Proxy: 3.126.135.206:8080
+2023-11-22 11:54:39 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection refused: connect
+2023-11-22 11:54:39 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:54:39 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:54:40 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:54:40 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:54:40 DEBUG Logger:279 - Number of Proxies: 747
+2023-11-22 11:54:40 DEBUG Logger:142 - Current Proxy: 3.126.135.206:8080
+2023-11-22 11:54:43 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection refused: connect
+2023-11-22 11:54:43 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:54:43 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:54:44 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:54:44 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:54:44 DEBUG Logger:279 - Number of Proxies: 747
+2023-11-22 11:54:44 DEBUG Logger:142 - Current Proxy: 3.126.135.206:8080
+2023-11-22 11:56:36 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 26644 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:56:36 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:56:37 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.028 seconds (process running for 1.948)
+2023-11-22 11:56:37 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:56:37 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:56:37 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:56:37 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:56:37 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:56:37 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:56:38 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:56:39 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:56:39 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:56:39 DEBUG Logger:279 - Number of Proxies: 756
+2023-11-22 11:56:39 DEBUG Logger:142 - Current Proxy: 203.74.125.18:8888
+2023-11-22 11:56:39 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 403 Forbidden"
+2023-11-22 11:56:39 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:56:40 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:56:40 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:56:40 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:56:40 DEBUG Logger:279 - Number of Proxies: 756
+2023-11-22 11:56:40 DEBUG Logger:142 - Current Proxy: 203.74.125.18:8888
+2023-11-22 11:56:41 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 403 Forbidden"
+2023-11-22 11:56:41 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:56:41 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:56:42 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:56:42 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:56:42 DEBUG Logger:279 - Number of Proxies: 756
+2023-11-22 11:56:42 DEBUG Logger:142 - Current Proxy: 203.74.125.18:8888
+2023-11-22 11:56:42 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 403 Forbidden"
+2023-11-22 11:56:42 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:56:43 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:56:43 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:56:43 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:56:43 DEBUG Logger:279 - Number of Proxies: 756
+2023-11-22 11:56:43 DEBUG Logger:142 - Current Proxy: 203.74.125.18:8888
+2023-11-22 11:56:44 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 403 Forbidden"
+2023-11-22 11:56:44 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:56:44 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:56:45 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:56:45 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:56:45 DEBUG Logger:279 - Number of Proxies: 756
+2023-11-22 11:56:45 DEBUG Logger:142 - Current Proxy: 203.74.125.18:8888
+2023-11-22 11:56:45 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 403 Forbidden"
+2023-11-22 11:56:45 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:57:26 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 43856 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:57:26 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:57:26 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.996 seconds (process running for 1.825)
+2023-11-22 11:57:26 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:57:26 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:57:26 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:57:26 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:57:26 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:57:26 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:57:27 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:57:27 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:57:28 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:57:28 DEBUG Logger:279 - Number of Proxies: 756
+2023-11-22 11:57:28 DEBUG Logger:142 - Current Proxy: 203.74.125.18:8888
+2023-11-22 11:57:49 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection timed out: connect
+2023-11-22 11:57:49 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:57:49 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:57:50 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:57:50 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:57:50 DEBUG Logger:279 - Number of Proxies: 763
+2023-11-22 11:57:50 DEBUG Logger:142 - Current Proxy: 12.186.205.121:80
+2023-11-22 11:58:11 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection timed out: connect
+2023-11-22 11:58:11 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:58:11 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:58:12 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:58:12 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:58:12 DEBUG Logger:279 - Number of Proxies: 763
+2023-11-22 11:58:12 DEBUG Logger:142 - Current Proxy: 12.186.205.121:80
+2023-11-22 11:58:47 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 21928 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:58:47 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:58:48 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.008 seconds (process running for 1.918)
+2023-11-22 11:58:48 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:58:48 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:58:48 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:58:48 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:58:48 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:58:48 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:58:48 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:58:49 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:58:49 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:58:49 DEBUG Logger:279 - Number of Proxies: 763
+2023-11-22 11:58:49 DEBUG Logger:142 - Current Proxy: 12.186.205.121:80
+2023-11-22 11:58:52 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection refused: connect
+2023-11-22 11:58:52 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:58:53 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:58:53 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:58:53 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:58:53 DEBUG Logger:279 - Number of Proxies: 758
+2023-11-22 11:58:53 DEBUG Logger:142 - Current Proxy: 47.91.46.88:3128
+2023-11-22 11:58:56 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Connection refused: connect
+2023-11-22 11:58:56 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:58:57 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:58:57 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:58:57 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:58:57 DEBUG Logger:279 - Number of Proxies: 758
+2023-11-22 11:58:57 DEBUG Logger:142 - Current Proxy: 47.91.46.88:3128
+2023-11-22 11:59:42 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 35264 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 11:59:42 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 11:59:42 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.059 seconds (process running for 1.925)
+2023-11-22 11:59:42 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 11:59:42 DEBUG Logger:92 - Mod: 0
+2023-11-22 11:59:42 DEBUG Logger:93 - Threads: 1
+2023-11-22 11:59:42 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 11:59:42 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 11:59:42 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 11:59:43 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:59:44 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:59:44 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:59:44 DEBUG Logger:279 - Number of Proxies: 758
+2023-11-22 11:59:44 DEBUG Logger:142 - Current Proxy: 47.91.46.88:3128
+2023-11-22 11:59:44 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-22 11:59:44 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:59:45 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:59:45 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:59:45 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:59:45 DEBUG Logger:279 - Number of Proxies: 758
+2023-11-22 11:59:45 DEBUG Logger:142 - Current Proxy: 47.91.46.88:3128
+2023-11-22 11:59:46 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-22 11:59:46 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:59:46 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:59:47 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:59:47 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:59:47 DEBUG Logger:279 - Number of Proxies: 758
+2023-11-22 11:59:47 DEBUG Logger:142 - Current Proxy: 47.91.46.88:3128
+2023-11-22 11:59:48 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-22 11:59:48 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 11:59:48 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 11:59:49 INFO  Logger:126 - Listsize: 21589
+2023-11-22 11:59:49 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 11:59:49 DEBUG Logger:279 - Number of Proxies: 758
+2023-11-22 11:59:49 DEBUG Logger:142 - Current Proxy: 47.91.46.88:3128
+2023-11-22 12:00:06 ERROR Logger:245 - 406 Not Acceptable: "{<EOL>  "error": "406",<EOL>  "request": "/ip",<EOL>  "data": "If you believe you've received this in error, please open a support request."<EOL>}<EOL>"
+2023-11-22 12:00:06 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:06 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:07 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:07 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:07 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:07 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:17 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 34212 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 12:00:17 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 12:00:17 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.019 seconds (process running for 1.934)
+2023-11-22 12:00:17 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 12:00:17 DEBUG Logger:92 - Mod: 0
+2023-11-22 12:00:17 DEBUG Logger:93 - Threads: 1
+2023-11-22 12:00:17 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 12:00:17 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 12:00:17 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 12:00:18 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:18 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:19 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:19 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:19 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:19 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:00:19 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:20 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:20 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:20 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:20 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:20 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:21 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:00:21 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:21 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:22 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:22 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:22 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:22 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:22 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:00:22 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:23 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:23 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:23 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:23 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:23 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:24 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:00:24 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:24 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:25 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:25 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:25 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:25 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:25 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:00:25 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:26 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:00:26 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:00:27 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:00:27 DEBUG Logger:279 - Number of Proxies: 788
+2023-11-22 12:00:27 DEBUG Logger:142 - Current Proxy: 5.255.107.249:8080
+2023-11-22 12:00:27 ERROR Logger:245 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:00:27 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 12:00:27 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:01:09 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 34388 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 12:01:09 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 12:01:09 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.077 seconds (process running for 2.01)
+2023-11-22 12:01:09 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 12:01:09 DEBUG Logger:92 - Mod: 0
+2023-11-22 12:01:09 DEBUG Logger:93 - Threads: 1
+2023-11-22 12:01:09 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 12:01:09 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 12:01:09 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 12:01:10 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:01:11 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:01:11 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:01:11 DEBUG Logger:279 - Number of Proxies: 846
+2023-11-22 12:01:11 DEBUG Logger:142 - Current Proxy: 185.217.143.96:80
+2023-11-22 12:01:11 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:01:12 ERROR Logger:169 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:01:12 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@49fa1d74
+2023-11-22 12:01:12 DEBUG Logger:171 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:01:12 ERROR Logger:192 - Trying again
+2023-11-22 12:01:13 ERROR Logger:200 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 12:01:13 ERROR Logger:201 - Failed
+2023-11-22 12:01:13 ERROR Logger:202 - Current URL: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:01:13 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-22 12:01:13 ERROR Logger:205 - Waiting...
+2023-11-22 12:02:04 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 43436 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 12:02:04 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 12:02:05 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.982 seconds (process running for 1.887)
+2023-11-22 12:02:05 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 12:02:05 DEBUG Logger:92 - Mod: 0
+2023-11-22 12:02:05 DEBUG Logger:93 - Threads: 1
+2023-11-22 12:02:05 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 12:02:05 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 12:02:05 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 12:02:05 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:02:06 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:02:07 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:02:07 DEBUG Logger:279 - Number of Proxies: 846
+2023-11-22 12:02:07 DEBUG Logger:142 - Current Proxy: 185.217.143.96:80
+2023-11-22 12:02:07 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:02:07 ERROR Logger:169 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Connection reset
+2023-11-22 12:02:07 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@18539cb1
+2023-11-22 12:02:07 DEBUG Logger:171 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:02:07 ERROR Logger:192 - Trying again
+2023-11-22 12:02:08 ERROR Logger:200 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Connection reset
+2023-11-22 12:02:08 ERROR Logger:201 - Failed
+2023-11-22 12:02:08 ERROR Logger:202 - Current URL: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:02:08 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-22 12:02:08 ERROR Logger:205 - Waiting...
+2023-11-22 12:04:31 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 49528 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 12:04:32 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 12:04:32 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.039 seconds (process running for 1.915)
+2023-11-22 12:04:32 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 12:04:32 DEBUG Logger:92 - Mod: 0
+2023-11-22 12:04:32 DEBUG Logger:93 - Threads: 1
+2023-11-22 12:04:32 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 12:04:32 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 12:04:32 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 12:04:33 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 12:04:34 INFO  Logger:126 - Listsize: 21589
+2023-11-22 12:04:34 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 12:04:34 DEBUG Logger:279 - Number of Proxies: 799
+2023-11-22 12:04:34 DEBUG Logger:142 - Current Proxy: 3.126.135.206:8080
+2023-11-22 12:04:34 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:04:34 ERROR Logger:169 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unexpected end of file from server
+2023-11-22 12:04:34 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@1a47a1e8
+2023-11-22 12:04:34 DEBUG Logger:171 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:04:34 ERROR Logger:192 - Trying again
+2023-11-22 12:04:35 ERROR Logger:200 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unexpected end of file from server
+2023-11-22 12:04:35 ERROR Logger:201 - Failed
+2023-11-22 12:04:35 ERROR Logger:202 - Current URL: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 12:04:35 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-22 12:04:35 ERROR Logger:205 - Waiting...
+2023-11-22 22:38:59 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 44712 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 22:38:59 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 22:38:59 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.191 seconds (process running for 2.166)
+2023-11-22 22:38:59 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 22:38:59 DEBUG Logger:92 - Mod: 0
+2023-11-22 22:38:59 DEBUG Logger:93 - Threads: 1
+2023-11-22 22:38:59 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 22:38:59 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 22:38:59 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 22:39:00 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:39:01 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:39:01 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:39:01 DEBUG Logger:279 - Number of Proxies: 908
+2023-11-22 22:39:01 DEBUG Logger:142 - Current Proxy: 182.106.220.252:9091
+2023-11-22 22:39:01 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:39:02 ERROR Logger:169 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unexpected end of file from server
+2023-11-22 22:39:02 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@21eee94f
+2023-11-22 22:39:02 DEBUG Logger:171 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:39:02 ERROR Logger:192 - Trying again
+2023-11-22 22:39:03 ERROR Logger:200 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unexpected end of file from server
+2023-11-22 22:39:03 ERROR Logger:201 - Failed
+2023-11-22 22:39:03 ERROR Logger:202 - Current URL: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:39:03 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-22 22:39:03 ERROR Logger:205 - Waiting...
+2023-11-22 22:49:54 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 20256 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 22:49:54 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 22:49:55 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.952 seconds (process running for 1.804)
+2023-11-22 22:49:55 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 22:49:55 DEBUG Logger:92 - Mod: 0
+2023-11-22 22:49:55 DEBUG Logger:93 - Threads: 1
+2023-11-22 22:49:55 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 22:49:55 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 22:49:55 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 22:49:55 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:49:56 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:49:57 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:49:57 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:49:57 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:49:57 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:49:57 ERROR Logger:169 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 22:49:57 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@724aefc3
+2023-11-22 22:49:57 DEBUG Logger:171 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:49:57 ERROR Logger:192 - Trying again
+2023-11-22 22:49:58 ERROR Logger:200 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-22 22:49:58 ERROR Logger:201 - Failed
+2023-11-22 22:49:58 ERROR Logger:202 - Current URL: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:49:58 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-22 22:49:58 ERROR Logger:205 - Waiting...
+2023-11-22 22:50:32 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 38596 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-22 22:50:32 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-22 22:50:32 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.014 seconds (process running for 1.847)
+2023-11-22 22:50:32 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-22 22:50:32 DEBUG Logger:92 - Mod: 0
+2023-11-22 22:50:32 DEBUG Logger:93 - Threads: 1
+2023-11-22 22:50:32 DEBUG Logger:98 - Arg[0]: false
+2023-11-22 22:50:32 DEBUG Logger:98 - Arg[1]: 1
+2023-11-22 22:50:32 DEBUG Logger:98 - Arg[2]: 0
+2023-11-22 22:50:33 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:50:34 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:50:34 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:50:34 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:50:34 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:50:34 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:34 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-22 22:50:34 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 22:50:35 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:50:35 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:50:35 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:50:35 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:50:35 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:50:35 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:36 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-22 22:50:36 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 22:50:36 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:50:37 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:50:37 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:50:37 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:50:37 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:50:37 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:37 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-22 22:50:37 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 22:50:38 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:50:38 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:50:38 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:50:38 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:50:38 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:50:38 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:39 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-22 22:50:39 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 22:50:39 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:50:40 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:50:40 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:50:40 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:50:40 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:50:40 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:40 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-22 22:50:40 ERROR Logger:246 - Restarting prematurely...
+2023-11-22 22:50:41 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-22 22:50:41 INFO  Logger:126 - Listsize: 21589
+2023-11-22 22:50:41 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-22 22:50:41 DEBUG Logger:279 - Number of Proxies: 993
+2023-11-22 22:50:41 DEBUG Logger:142 - Current Proxy: 27.109.135.144:80
+2023-11-22 22:50:41 DEBUG Logger:159 - [0/21589]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:42 ERROR Logger:169 - I/O error on GET request for "http://steamcommunity.com/market/priceoverview/": Unexpected end of file from server
+2023-11-22 22:50:42 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@62d1dc3c
+2023-11-22 22:50:42 DEBUG Logger:171 - Generated URI: http://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:42 ERROR Logger:192 - Trying again
+2023-11-22 22:50:43 ERROR Logger:200 - I/O error on GET request for "http://steamcommunity.com/market/priceoverview/": Unexpected end of file from server
+2023-11-22 22:50:43 ERROR Logger:201 - Failed
+2023-11-22 22:50:43 ERROR Logger:202 - Current URL: http://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-22 22:50:43 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-22 22:50:43 ERROR Logger:205 - Waiting...
+2023-11-23 15:03:25 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25420 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:03:25 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:03:26 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.508 seconds (process running for 3.189)
+2023-11-23 15:03:26 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:03:26 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:03:26 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:03:26 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:03:26 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:03:26 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:03:27 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:03:27 INFO  Logger:126 - Listsize: 21594
+2023-11-23 15:03:28 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-23 15:03:28 DEBUG Logger:279 - Number of Proxies: 793
+2023-11-23 15:03:28 DEBUG Logger:142 - Current Proxy: 153.19.91.77:80
+2023-11-23 15:03:28 DEBUG Logger:159 - [0/21594]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:03:28 ERROR Logger:169 - 502 Proxy Error: "<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><EOL><html><head><EOL><title>502 Proxy Error</title><EOL></head><body><EOL><h1>Proxy Error</h1><EOL><p>The proxy server received an invalid<EOL><EOL>response from an upstream server.<br /><EOL><EOL>The proxy server could not handle the request<p>Reason: <strong>DNS lookup failure for: steamcommunity.com</strong></p></p><EOL><hr><EOL><address>Apache/2.4.52 (Ubuntu) Server at steamcommunity.com Port 80</address><EOL></body></html><EOL>"
+2023-11-23 15:03:28 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@25f723b0
+2023-11-23 15:03:28 DEBUG Logger:171 - Generated URI: http://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:03:28 ERROR Logger:192 - Trying again
+2023-11-23 15:03:28 ERROR Logger:200 - 502 Proxy Error: "<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><EOL><html><head><EOL><title>502 Proxy Error</title><EOL></head><body><EOL><h1>Proxy Error</h1><EOL><p>The proxy server received an invalid<EOL><EOL>response from an upstream server.<br /><EOL><EOL>The proxy server could not handle the request<p>Reason: <strong>DNS lookup failure for: steamcommunity.com</strong></p></p><EOL><hr><EOL><address>Apache/2.4.52 (Ubuntu) Server at steamcommunity.com Port 80</address><EOL></body></html><EOL>"
+2023-11-23 15:03:28 ERROR Logger:201 - Failed
+2023-11-23 15:03:28 ERROR Logger:202 - Current URL: http://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:03:28 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-23 15:03:28 ERROR Logger:205 - Waiting...
+2023-11-23 15:05:36 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25300 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:05:36 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:05:37 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.103 seconds (process running for 2.034)
+2023-11-23 15:05:37 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:05:37 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:05:37 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:05:37 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:05:37 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:05:37 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:05:38 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:05:39 INFO  Logger:126 - Listsize: 21594
+2023-11-23 15:05:39 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-23 15:05:39 DEBUG Logger:279 - Number of Proxies: 815
+2023-11-23 15:05:39 DEBUG Logger:142 - Current Proxy: 93.157.248.108:88
+2023-11-23 15:05:39 DEBUG Logger:159 - [0/21594]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:05:40 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-23 15:05:40 ERROR Logger:246 - Restarting prematurely...
+2023-11-23 15:05:40 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:05:41 INFO  Logger:126 - Listsize: 21594
+2023-11-23 15:05:41 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-23 15:05:41 DEBUG Logger:279 - Number of Proxies: 815
+2023-11-23 15:05:41 DEBUG Logger:142 - Current Proxy: 93.157.248.108:88
+2023-11-23 15:05:41 DEBUG Logger:159 - [0/21594]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:05:41 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-23 15:05:41 ERROR Logger:246 - Restarting prematurely...
+2023-11-23 15:05:41 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:05:42 INFO  Logger:126 - Listsize: 21594
+2023-11-23 15:05:42 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-23 15:05:42 DEBUG Logger:279 - Number of Proxies: 815
+2023-11-23 15:05:42 DEBUG Logger:142 - Current Proxy: 93.157.248.108:88
+2023-11-23 15:05:42 DEBUG Logger:159 - [0/21594]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:05:42 ERROR Logger:245 - Cannot invoke "java.util.HashMap.containsKey(Object)" because "result" is null
+2023-11-23 15:05:42 ERROR Logger:246 - Restarting prematurely...
+2023-11-23 15:05:43 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:05:56 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 14944 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:05:56 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:05:56 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.171 seconds (process running for 2.126)
+2023-11-23 15:05:56 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:05:56 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:05:56 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:05:56 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:05:56 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:05:56 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:05:58 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:05:58 INFO  Logger:126 - Listsize: 21594
+2023-11-23 15:05:58 DEBUG Logger:278 - Synced Proxies Sucessfully
+2023-11-23 15:05:58 DEBUG Logger:279 - Number of Proxies: 775
+2023-11-23 15:05:58 DEBUG Logger:142 - Current Proxy: 203.19.38.114:1080
+2023-11-23 15:05:58 DEBUG Logger:159 - [0/21594]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:05:59 ERROR Logger:169 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-23 15:05:59 ERROR Logger:170 - [Ljava.lang.StackTraceElement;@6a916402
+2023-11-23 15:05:59 DEBUG Logger:171 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:05:59 ERROR Logger:192 - Trying again
+2023-11-23 15:05:59 ERROR Logger:200 - I/O error on GET request for "https://steamcommunity.com/market/priceoverview/": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-23 15:05:59 ERROR Logger:201 - Failed
+2023-11-23 15:05:59 ERROR Logger:202 - Current URL: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=%27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:05:59 ERROR Logger:204 - Increased WaitTime to: 20000
+2023-11-23 15:05:59 ERROR Logger:205 - Waiting...
+2023-11-23 15:13:25 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25192 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:13:25 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:13:26 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.161 seconds (process running for 2.116)
+2023-11-23 15:13:26 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:13:26 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:13:26 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:13:26 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:13:26 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:13:26 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:13:26 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:13:27 INFO  Logger:126 - Listsize: 21594
+2023-11-23 15:13:27 DEBUG Logger:280 - Synced Proxies Sucessfully
+2023-11-23 15:13:27 DEBUG Logger:281 - Number of Proxies: 801
+2023-11-23 15:13:27 DEBUG Logger:142 - Current Proxy: 117.160.250.130:8899
+2023-11-23 15:13:27 DEBUG Logger:161 - [0/21594]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:13:29 ERROR Logger:247 - I/O error on POST request for "http://hauptserver.ddns.net/updateSkin": Connection reset
+2023-11-23 15:13:29 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:13:29 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:13:31 ERROR Logger:247 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection reset
+2023-11-23 15:13:31 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:13:31 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:13:32 ERROR Logger:247 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection reset
+2023-11-23 15:13:32 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:13:32 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:13:33 ERROR Logger:247 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection reset
+2023-11-23 15:13:33 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:14:47 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 26308 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:14:47 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:14:47 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.996 seconds (process running for 1.879)
+2023-11-23 15:14:47 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:14:47 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:14:47 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:14:47 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:14:47 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:14:47 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:14:48 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:14:49 INFO  Logger:126 - Listsize: 21595
+2023-11-23 15:14:49 DEBUG Logger:280 - Synced Proxies Sucessfully
+2023-11-23 15:14:49 DEBUG Logger:281 - Number of Proxies: 786
+2023-11-23 15:14:49 DEBUG Logger:142 - Current Proxy: 47.74.152.29:8888
+2023-11-23 15:14:49 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:14:50 ERROR Logger:247 - I/O error on POST request for "http://hauptserver.ddns.net/updateSkin": Connection reset
+2023-11-23 15:14:50 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:14:50 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:14:52 ERROR Logger:247 - I/O error on GET request for "http://hauptserver.ddns.net/GetAllSkinNames": Connection reset
+2023-11-23 15:14:52 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:14:52 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:15:25 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 24956 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:15:25 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:15:26 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.002 seconds (process running for 1.867)
+2023-11-23 15:15:26 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:15:26 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:15:26 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:15:26 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:15:26 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:15:26 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:15:26 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:15:27 INFO  Logger:126 - Listsize: 21595
+2023-11-23 15:15:27 DEBUG Logger:280 - Synced Proxies Sucessfully
+2023-11-23 15:15:27 DEBUG Logger:281 - Number of Proxies: 827
+2023-11-23 15:15:27 DEBUG Logger:142 - Current Proxy: 176.98.81.85:8080
+2023-11-23 15:15:27 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:15:28 ERROR Logger:247 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:15:28 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:15:28 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:15:28 ERROR Logger:247 - 404 : "{"timestamp":"2023-11-23T14:15:29.022+00:00","status":404,"error":"Not Found","path":"//GetAllSkinNames"}"
+2023-11-23 15:15:28 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:15:29 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:15:29 ERROR Logger:247 - 404 : "{"timestamp":"2023-11-23T14:15:29.634+00:00","status":404,"error":"Not Found","path":"//GetAllSkinNames"}"
+2023-11-23 15:15:29 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:15:29 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:15:30 ERROR Logger:247 - 404 : "{"timestamp":"2023-11-23T14:15:30.259+00:00","status":404,"error":"Not Found","path":"//GetAllSkinNames"}"
+2023-11-23 15:15:30 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:15:30 INFO  Logger:121 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:15:30 ERROR Logger:247 - 404 : "{"timestamp":"2023-11-23T14:15:30.848+00:00","status":404,"error":"Not Found","path":"//GetAllSkinNames"}"
+2023-11-23 15:15:30 ERROR Logger:248 - Restarting prematurely...
+2023-11-23 15:17:55 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 13876 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:17:55 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:17:56 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.948 seconds (process running for 1.812)
+2023-11-23 15:17:56 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:17:56 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:17:56 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:17:56 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:17:56 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:17:56 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:17:56 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:17:58 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:17:58 DEBUG Logger:281 - Synced Proxies Sucessfully
+2023-11-23 15:17:58 DEBUG Logger:282 - Number of Proxies: 814
+2023-11-23 15:17:58 DEBUG Logger:143 - Current Proxy: 72.10.160.90:17857
+2023-11-23 15:17:58 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:17:59 ERROR Logger:248 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:17:59 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:17:59 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:46 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 26856 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:18:46 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:18:46 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.935 seconds (process running for 1.78)
+2023-11-23 15:18:46 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:18:46 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:18:46 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:18:46 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:18:46 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:18:46 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:18:47 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:47 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:47 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:47 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:47 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:47 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:47 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:47 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:47 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:48 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:48 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:48 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:48 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:48 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:48 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:48 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:48 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:48 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:49 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:49 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:49 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:49 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:49 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:49 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:49 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:49 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:49 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:49 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:49 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:49 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:50 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:50 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:50 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:50 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:50 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:50 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:50 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:50 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:50 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:50 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:50 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:50 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:51 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:51 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:51 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:51 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:51 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:51 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:51 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:51 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:51 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:52 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:52 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:52 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:52 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:52 ERROR Logger:248 - URI is not absolute
+2023-11-23 15:18:52 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:18:57 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 23956 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:18:57 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:18:58 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.971 seconds (process running for 1.855)
+2023-11-23 15:18:58 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:18:58 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:18:58 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:18:58 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:18:58 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:18:58 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:18:58 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:18:59 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:18:59 DEBUG Logger:281 - Synced Proxies Sucessfully
+2023-11-23 15:18:59 DEBUG Logger:282 - Number of Proxies: 817
+2023-11-23 15:18:59 DEBUG Logger:143 - Current Proxy: 196.20.125.145:8083
+2023-11-23 15:18:59 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:18:59 ERROR Logger:248 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:18:59 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:19:00 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:19:00 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:19:00 DEBUG Logger:281 - Synced Proxies Sucessfully
+2023-11-23 15:19:00 DEBUG Logger:282 - Number of Proxies: 817
+2023-11-23 15:19:00 DEBUG Logger:143 - Current Proxy: 196.20.125.145:8083
+2023-11-23 15:19:00 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:19:01 ERROR Logger:248 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:19:01 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:19:01 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:19:02 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:19:02 DEBUG Logger:281 - Synced Proxies Sucessfully
+2023-11-23 15:19:02 DEBUG Logger:282 - Number of Proxies: 817
+2023-11-23 15:19:02 DEBUG Logger:143 - Current Proxy: 196.20.125.145:8083
+2023-11-23 15:19:42 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 6712 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:19:42 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:19:42 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.996 seconds (process running for 1.785)
+2023-11-23 15:19:42 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:19:42 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:19:42 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:19:42 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:19:42 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:19:42 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:19:43 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:19:44 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:19:44 ERROR Logger:248 - I/O error on GET request for "https://api.proxyscrape.com/v2/": Received fatal alert: handshake_failure
+2023-11-23 15:19:44 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:19:44 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:19:45 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:19:45 ERROR Logger:248 - I/O error on GET request for "https://api.proxyscrape.com/v2/": Received fatal alert: handshake_failure
+2023-11-23 15:19:45 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:19:45 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:19:46 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:19:46 ERROR Logger:248 - I/O error on GET request for "https://api.proxyscrape.com/v2/": Received fatal alert: handshake_failure
+2023-11-23 15:19:46 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:19:46 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:19:47 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:19:47 ERROR Logger:248 - I/O error on GET request for "https://api.proxyscrape.com/v2/": Received fatal alert: handshake_failure
+2023-11-23 15:19:47 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:19:47 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:20:29 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 14604 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:20:29 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:20:29 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.937 seconds (process running for 1.798)
+2023-11-23 15:20:29 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:20:29 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:20:29 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:20:29 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:20:29 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:20:29 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:20:30 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:20:31 INFO  Logger:127 - Listsize: 21595
+2023-11-23 15:20:31 DEBUG Logger:281 - Synced Proxies Sucessfully
+2023-11-23 15:20:31 DEBUG Logger:282 - Number of Proxies: 807
+2023-11-23 15:20:31 DEBUG Logger:143 - Current Proxy: 102.132.56.218:8080
+2023-11-23 15:20:31 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:20:31 ERROR Logger:248 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:20:31 ERROR Logger:249 - Restarting prematurely...
+2023-11-23 15:20:32 INFO  Logger:122 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:25:28 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 13940 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:25:28 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:25:28 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.973 seconds (process running for 1.808)
+2023-11-23 15:25:28 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:25:28 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:25:28 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:25:28 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:25:28 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:25:28 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:25:29 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:25:30 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:25:30 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:25:30 DEBUG Logger:289 - Number of Proxies: 754
+2023-11-23 15:25:30 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:25:30 ERROR Logger:255 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:25:30 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:25:31 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:25:31 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:25:31 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:25:31 DEBUG Logger:289 - Number of Proxies: 754
+2023-11-23 15:25:32 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:25:32 ERROR Logger:255 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:25:32 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:25:32 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:25:33 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:25:33 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:25:33 DEBUG Logger:289 - Number of Proxies: 754
+2023-11-23 15:25:33 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:25:33 ERROR Logger:255 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:25:33 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:25:33 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:25:34 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:25:34 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:25:34 DEBUG Logger:289 - Number of Proxies: 754
+2023-11-23 15:25:34 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:25:35 ERROR Logger:255 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:25:35 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:25:35 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:26:11 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 23932 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:26:11 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:26:12 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.919 seconds (process running for 1.713)
+2023-11-23 15:26:12 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:26:12 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:26:12 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:26:12 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:26:12 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:26:12 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:26:13 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:26:13 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:26:13 DEBUG Logger:289 - Synced Proxies Sucessfully
+2023-11-23 15:26:13 DEBUG Logger:290 - Number of Proxies: 754
+2023-11-23 15:26:14 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:26:14 DEBUG Logger:168 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:26:14 ERROR Logger:256 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:26:14 ERROR Logger:257 - Restarting prematurely...
+2023-11-23 15:26:14 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:26:15 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:26:15 DEBUG Logger:289 - Synced Proxies Sucessfully
+2023-11-23 15:26:15 DEBUG Logger:290 - Number of Proxies: 771
+2023-11-23 15:26:15 DEBUG Logger:161 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:26:15 DEBUG Logger:168 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:26:15 ERROR Logger:256 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:26:15 ERROR Logger:257 - Restarting prematurely...
+2023-11-23 15:26:49 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 24440 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:26:49 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:26:50 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.928 seconds (process running for 1.718)
+2023-11-23 15:26:50 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:26:50 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:26:50 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:26:50 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:26:50 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:26:50 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:26:50 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:26:51 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:26:51 DEBUG Logger:290 - Synced Proxies Sucessfully
+2023-11-23 15:26:51 DEBUG Logger:291 - Number of Proxies: 771
+2023-11-23 15:26:51 DEBUG Logger:145 - Current Proxy: 43.133.136.208:8800
+2023-11-23 15:26:51 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:26:51 DEBUG Logger:169 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:26:51 ERROR Logger:257 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:26:51 ERROR Logger:258 - Restarting prematurely...
+2023-11-23 15:26:52 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:26:52 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:26:52 DEBUG Logger:290 - Synced Proxies Sucessfully
+2023-11-23 15:26:52 DEBUG Logger:291 - Number of Proxies: 771
+2023-11-23 15:26:52 DEBUG Logger:145 - Current Proxy: 43.133.136.208:8800
+2023-11-23 15:26:52 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:26:53 DEBUG Logger:169 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:26:53 ERROR Logger:257 - I/O error on POST request for "https://hauptserver.ddns.net/updateSkin": Received fatal alert: unrecognized_name
+2023-11-23 15:26:53 ERROR Logger:258 - Restarting prematurely...
+2023-11-23 15:26:53 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:28:13 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 10504 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:28:13 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:28:13 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.047 seconds (process running for 1.971)
+2023-11-23 15:28:13 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:28:13 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:28:13 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:28:13 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:28:13 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:28:13 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:28:14 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:28:17 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:28:17 DEBUG Logger:290 - Synced Proxies Sucessfully
+2023-11-23 15:28:17 DEBUG Logger:291 - Number of Proxies: 765
+2023-11-23 15:28:17 DEBUG Logger:145 - Current Proxy: 167.99.185.219:8888
+2023-11-23 15:28:17 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:28:18 DEBUG Logger:169 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:28:18 DEBUG Logger:241 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.78, Success=true}
+2023-11-23 15:28:18 DEBUG Logger:162 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:28:18 DEBUG Logger:169 - {volume=69, success=true, lowest_price=12,70€, median_price=13,85€}
+2023-11-23 15:28:18 DEBUG Logger:241 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=12.7, Success=true}
+2023-11-23 15:28:18 ERROR Logger:257 - Cannot invoke "com.Home.Tim.SendSkinPrices.ProxyServer.getIP()" because "proxy" is null
+2023-11-23 15:28:18 ERROR Logger:258 - Restarting prematurely...
+2023-11-23 15:28:19 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:29:08 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 24756 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:29:08 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:29:09 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.051 seconds (process running for 1.986)
+2023-11-23 15:29:09 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:29:09 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:29:09 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:29:09 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:29:09 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:29:09 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:29:10 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:29:11 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:29:11 DEBUG Logger:290 - Synced Proxies Sucessfully
+2023-11-23 15:29:11 DEBUG Logger:291 - Number of Proxies: 777
+2023-11-23 15:29:11 DEBUG Logger:145 - Current Proxy: 103.120.6.46:80
+2023-11-23 15:29:11 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:29:11 DEBUG Logger:169 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:29:17 DEBUG Logger:241 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.78, Success=true}
+2023-11-23 15:29:17 DEBUG Logger:162 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:29:17 DEBUG Logger:169 - {volume=69, success=true, lowest_price=13,98€, median_price=13,85€}
+2023-11-23 15:29:18 ERROR Logger:257 - I/O error on POST request for "http://hauptserver.ddns.net/updateSkin": Connection reset
+2023-11-23 15:29:18 ERROR Logger:258 - Restarting prematurely...
+2023-11-23 15:29:18 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:29:19 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:29:19 DEBUG Logger:290 - Synced Proxies Sucessfully
+2023-11-23 15:29:19 DEBUG Logger:291 - Number of Proxies: 777
+2023-11-23 15:29:19 DEBUG Logger:145 - Current Proxy: 103.120.6.46:80
+2023-11-23 15:29:19 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:29:19 DEBUG Logger:169 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:29:20 ERROR Logger:257 - 502 Bad Gateway: "<html><EOL><EOL><head><title>502 Bad Gateway</title></head><EOL><EOL><body bgcolor="white"><EOL><EOL><center><h1>502 Bad Gateway</h1></center><EOL><EOL><hr><center>nginx/1.14.0 (Ubuntu)</center><EOL><EOL></body><EOL><EOL></html><EOL><EOL>"
+2023-11-23 15:29:20 ERROR Logger:258 - Restarting prematurely...
+2023-11-23 15:29:20 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:29:21 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:29:21 DEBUG Logger:290 - Synced Proxies Sucessfully
+2023-11-23 15:29:21 DEBUG Logger:291 - Number of Proxies: 777
+2023-11-23 15:29:21 DEBUG Logger:145 - Current Proxy: 103.120.6.46:80
+2023-11-23 15:29:21 DEBUG Logger:162 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:31:08 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25656 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:31:08 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:31:09 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.026 seconds (process running for 1.87)
+2023-11-23 15:31:09 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:31:09 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:31:09 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:31:09 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:31:09 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:31:09 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:31:09 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:31:10 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:31:10 DEBUG Logger:287 - Synced Proxies Sucessfully
+2023-11-23 15:31:10 DEBUG Logger:288 - Number of Proxies: 813
+2023-11-23 15:31:10 DEBUG Logger:146 - Current Proxy: 151.236.205.161:9002
+2023-11-23 15:31:11 DEBUG Logger:159 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:31:11 DEBUG Logger:166 - {volume=73, success=true, lowest_price=8,78€, median_price=8,29€}
+2023-11-23 15:31:11 DEBUG Logger:238 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.78, Success=true}
+2023-11-23 15:31:11 DEBUG Logger:159 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:31:11 DEBUG Logger:166 - {volume=69, success=true, lowest_price=13,98€, median_price=13,85€}
+2023-11-23 15:31:11 DEBUG Logger:238 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=13.98, Success=true}
+2023-11-23 15:31:11 DEBUG Logger:159 - [2/21595]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-23 15:31:12 DEBUG Logger:166 - {volume=322, success=true, lowest_price=6,14€, median_price=6,02€}
+2023-11-23 15:31:12 DEBUG Logger:238 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.14, Success=true}
+2023-11-23 15:31:12 DEBUG Logger:159 - [3/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-23 15:31:12 DEBUG Logger:166 - {volume=220, success=true, lowest_price=3,42€, median_price=3,36€}
+2023-11-23 15:31:12 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.42, Success=true}
+2023-11-23 15:31:12 DEBUG Logger:159 - [4/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-23 15:31:12 DEBUG Logger:166 - {volume=310, success=true, lowest_price=3,26€, median_price=3,22€}
+2023-11-23 15:31:12 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.26, Success=true}
+2023-11-23 15:31:12 DEBUG Logger:159 - [5/21595]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-11-23 15:31:13 DEBUG Logger:166 - {volume=876, success=true, lowest_price=0,74€, median_price=0,74€}
+2023-11-23 15:31:13 DEBUG Logger:238 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.74, Success=true}
+2023-11-23 15:31:13 DEBUG Logger:159 - [6/21595]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-11-23 15:31:13 DEBUG Logger:166 - {volume=194, success=true, lowest_price=4,69€, median_price=4,68€}
+2023-11-23 15:31:13 DEBUG Logger:238 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=4.69, Success=true}
+2023-11-23 15:31:13 DEBUG Logger:159 - [7/21595]Current HashName: 2020%20RMR%20Challengers
+2023-11-23 15:31:13 DEBUG Logger:166 - {volume=1,312, success=true, lowest_price=0,28€, median_price=0,26€}
+2023-11-23 15:31:13 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.28, Success=true}
+2023-11-23 15:31:14 DEBUG Logger:159 - [8/21595]Current HashName: 2020%20RMR%20Contenders
+2023-11-23 15:31:14 DEBUG Logger:166 - {volume=840, success=true, lowest_price=0,37€, median_price=0,37€}
+2023-11-23 15:31:14 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Contenders, Steamprice=0.37, Success=true}
+2023-11-23 15:31:14 DEBUG Logger:159 - [9/21595]Current HashName: 2020%20RMR%20Legends
+2023-11-23 15:31:14 DEBUG Logger:166 - {volume=1,453, success=true, lowest_price=0,26€, median_price=0,26€}
+2023-11-23 15:31:14 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Legends, Steamprice=0.26, Success=true}
+2023-11-23 15:31:14 DEBUG Logger:159 - [10/21595]Current HashName: 2021%20Community%20Sticker%20Capsule
+2023-11-23 15:31:15 DEBUG Logger:166 - {volume=57, success=true, lowest_price=0,85€, median_price=0,79€}
+2023-11-23 15:31:15 DEBUG Logger:238 - Inserted Skin: {SkinHash=2021 Community Sticker Capsule, Steamprice=0.85, Success=true}
+2023-11-23 15:31:15 DEBUG Logger:159 - [11/21595]Current HashName: 3rd%20Commando%20Company%20%7C%20KSK
+2023-11-23 15:31:15 DEBUG Logger:166 - {volume=198, success=true, lowest_price=6,72€, median_price=7,38€}
+2023-11-23 15:31:15 DEBUG Logger:238 - Inserted Skin: {SkinHash=3rd Commando Company | KSK, Steamprice=6.72, Success=true}
+2023-11-23 15:31:15 DEBUG Logger:159 - [12/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Battle-Scarred)
+2023-11-23 15:31:15 DEBUG Logger:166 - {volume=45, success=true, lowest_price=17,07€, median_price=16,79€}
+2023-11-23 15:31:15 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Battle-Scarred), Steamprice=17.07, Success=true}
+2023-11-23 15:31:16 DEBUG Logger:159 - [13/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Factory%20New)
+2023-11-23 15:31:16 DEBUG Logger:166 - {volume=3, success=true, lowest_price=91,12€, median_price=92,65€}
+2023-11-23 15:31:16 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Factory New), Steamprice=91.12, Success=true}
+2023-11-23 15:31:16 DEBUG Logger:159 - [14/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Field-Tested)
+2023-11-23 15:31:16 DEBUG Logger:166 - {volume=54, success=true, lowest_price=26,95€, median_price=27,69€}
+2023-11-23 15:31:16 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Field-Tested), Steamprice=26.95, Success=true}
+2023-11-23 15:31:16 DEBUG Logger:146 - Current Proxy: 102.132.40.133:8080
+2023-11-23 15:31:16 DEBUG Logger:159 - [15/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Minimal%20Wear)
+2023-11-23 15:31:17 DEBUG Logger:166 - {volume=22, success=true, lowest_price=52,61€, median_price=51,13€}
+2023-11-23 15:31:17 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Minimal Wear), Steamprice=52.61, Success=true}
+2023-11-23 15:31:17 DEBUG Logger:159 - [16/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Well-Worn)
+2023-11-23 15:31:17 DEBUG Logger:166 - {volume=49, success=true, lowest_price=19,22€, median_price=18,75€}
+2023-11-23 15:31:17 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Well-Worn), Steamprice=19.22, Success=true}
+2023-11-23 15:31:17 DEBUG Logger:159 - [17/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Battle-Scarred)
+2023-11-23 15:31:17 DEBUG Logger:166 - {volume=75, success=true, lowest_price=18,60€, median_price=18,61€}
+2023-11-23 15:31:17 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Battle-Scarred), Steamprice=18.6, Success=true}
+2023-11-23 15:31:17 DEBUG Logger:159 - [18/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Factory%20New)
+2023-11-23 15:31:18 DEBUG Logger:166 - {volume=7, success=true, lowest_price=211,76€, median_price=182,69€}
+2023-11-23 15:31:18 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Factory New), Steamprice=211.76, Success=true}
+2023-11-23 15:31:18 DEBUG Logger:159 - [19/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Field-Tested)
+2023-11-23 15:31:18 DEBUG Logger:166 - {volume=283, success=true, lowest_price=25,24€, median_price=25,09€}
+2023-11-23 15:31:18 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Field-Tested), Steamprice=25.24, Success=true}
+2023-11-23 15:31:18 DEBUG Logger:159 - [20/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Minimal%20Wear)
+2023-11-23 15:31:18 ERROR Logger:170 - 429 Too Many Requests: "?�????????�+��??O��%????"
+2023-11-23 15:31:18 ERROR Logger:171 - [Ljava.lang.StackTraceElement;@3178219a
+2023-11-23 15:31:18 DEBUG Logger:172 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=AK-47%20%7C%20Asiimov%20(Minimal%20Wear)
+2023-11-23 15:31:18 ERROR Logger:177 - You sent too many requests to the Steammarket
+2023-11-23 15:31:18 ERROR Logger:178 - Waiting for 61 Minutes...
+2023-11-23 15:33:12 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25740 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:33:12 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:33:12 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.947 seconds (process running for 1.792)
+2023-11-23 15:33:12 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:33:12 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:33:12 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:33:12 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:33:12 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:33:12 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:33:13 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:33:14 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:33:14 DEBUG Logger:287 - Synced Proxies Sucessfully
+2023-11-23 15:33:14 DEBUG Logger:288 - Number of Proxies: 792
+2023-11-23 15:33:14 DEBUG Logger:146 - Current Proxy: 139.59.1.14:3128
+2023-11-23 15:33:14 DEBUG Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:33:14 DEBUG Logger:159 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:33:15 DEBUG Logger:166 - {volume=73, success=true, lowest_price=8,77€, median_price=8,29€}
+2023-11-23 15:33:15 DEBUG Logger:238 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.77, Success=true}
+2023-11-23 15:33:15 DEBUG Logger:159 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:33:15 DEBUG Logger:166 - {volume=69, success=true, lowest_price=13,98€, median_price=13,85€}
+2023-11-23 15:33:15 DEBUG Logger:238 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=13.98, Success=true}
+2023-11-23 15:33:15 DEBUG Logger:159 - [2/21595]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-23 15:33:15 DEBUG Logger:166 - {volume=322, success=true, lowest_price=6,32€, median_price=6,02€}
+2023-11-23 15:33:15 DEBUG Logger:238 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.32, Success=true}
+2023-11-23 15:33:15 DEBUG Logger:159 - [3/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-23 15:33:15 DEBUG Logger:166 - {volume=220, success=true, lowest_price=3,42€, median_price=3,36€}
+2023-11-23 15:33:15 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.42, Success=true}
+2023-11-23 15:33:15 DEBUG Logger:159 - [4/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-23 15:33:16 DEBUG Logger:166 - {volume=310, success=true, lowest_price=3,26€, median_price=3,22€}
+2023-11-23 15:33:16 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.26, Success=true}
+2023-11-23 15:33:16 DEBUG Logger:159 - [5/21595]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-11-23 15:33:16 DEBUG Logger:166 - {volume=876, success=true, lowest_price=0,74€, median_price=0,74€}
+2023-11-23 15:33:16 DEBUG Logger:238 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.74, Success=true}
+2023-11-23 15:33:16 DEBUG Logger:159 - [6/21595]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-11-23 15:33:16 DEBUG Logger:166 - {volume=194, success=true, lowest_price=4,69€, median_price=4,68€}
+2023-11-23 15:33:16 DEBUG Logger:238 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=4.69, Success=true}
+2023-11-23 15:33:16 DEBUG Logger:159 - [7/21595]Current HashName: 2020%20RMR%20Challengers
+2023-11-23 15:33:16 DEBUG Logger:166 - {volume=1,312, success=true, lowest_price=0,28€, median_price=0,26€}
+2023-11-23 15:33:16 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.28, Success=true}
+2023-11-23 15:33:16 DEBUG Logger:159 - [8/21595]Current HashName: 2020%20RMR%20Contenders
+2023-11-23 15:33:17 DEBUG Logger:166 - {volume=840, success=true, lowest_price=0,37€, median_price=0,37€}
+2023-11-23 15:33:17 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Contenders, Steamprice=0.37, Success=true}
+2023-11-23 15:33:17 DEBUG Logger:159 - [9/21595]Current HashName: 2020%20RMR%20Legends
+2023-11-23 15:33:17 DEBUG Logger:166 - {volume=1,453, success=true, lowest_price=0,26€, median_price=0,26€}
+2023-11-23 15:33:17 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Legends, Steamprice=0.26, Success=true}
+2023-11-23 15:33:17 DEBUG Logger:159 - [10/21595]Current HashName: 2021%20Community%20Sticker%20Capsule
+2023-11-23 15:33:17 DEBUG Logger:166 - {volume=57, success=true, lowest_price=0,85€, median_price=0,79€}
+2023-11-23 15:33:17 DEBUG Logger:238 - Inserted Skin: {SkinHash=2021 Community Sticker Capsule, Steamprice=0.85, Success=true}
+2023-11-23 15:33:17 DEBUG Logger:159 - [11/21595]Current HashName: 3rd%20Commando%20Company%20%7C%20KSK
+2023-11-23 15:33:18 DEBUG Logger:166 - {volume=198, success=true, lowest_price=6,62€, median_price=7,38€}
+2023-11-23 15:33:18 DEBUG Logger:238 - Inserted Skin: {SkinHash=3rd Commando Company | KSK, Steamprice=6.62, Success=true}
+2023-11-23 15:33:18 DEBUG Logger:159 - [12/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Battle-Scarred)
+2023-11-23 15:33:18 DEBUG Logger:166 - {volume=45, success=true, lowest_price=17,07€, median_price=16,79€}
+2023-11-23 15:33:18 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Battle-Scarred), Steamprice=17.07, Success=true}
+2023-11-23 15:33:18 DEBUG Logger:159 - [13/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Factory%20New)
+2023-11-23 15:33:18 DEBUG Logger:166 - {volume=3, success=true, lowest_price=91,12€, median_price=92,65€}
+2023-11-23 15:33:18 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Factory New), Steamprice=91.12, Success=true}
+2023-11-23 15:33:18 DEBUG Logger:159 - [14/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Field-Tested)
+2023-11-23 15:33:18 DEBUG Logger:166 - {volume=54, success=true, lowest_price=26,95€, median_price=27,69€}
+2023-11-23 15:33:18 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Field-Tested), Steamprice=26.95, Success=true}
+2023-11-23 15:33:18 DEBUG Logger:146 - Current Proxy: 181.78.19.247:999
+2023-11-23 15:33:19 DEBUG Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:33:19 DEBUG Logger:159 - [15/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Minimal%20Wear)
+2023-11-23 15:33:19 DEBUG Logger:166 - {volume=22, success=true, lowest_price=52,61€, median_price=51,13€}
+2023-11-23 15:33:19 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Minimal Wear), Steamprice=52.61, Success=true}
+2023-11-23 15:33:19 DEBUG Logger:159 - [16/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Well-Worn)
+2023-11-23 15:33:20 DEBUG Logger:166 - {volume=49, success=true, lowest_price=18,49€, median_price=18,75€}
+2023-11-23 15:33:20 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Well-Worn), Steamprice=18.49, Success=true}
+2023-11-23 15:33:20 DEBUG Logger:159 - [17/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Battle-Scarred)
+2023-11-23 15:33:20 DEBUG Logger:166 - {volume=75, success=true, lowest_price=18,60€, median_price=18,61€}
+2023-11-23 15:33:20 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Battle-Scarred), Steamprice=18.6, Success=true}
+2023-11-23 15:33:20 DEBUG Logger:159 - [18/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Factory%20New)
+2023-11-23 15:33:20 DEBUG Logger:166 - {volume=7, success=true, lowest_price=211,76€, median_price=182,69€}
+2023-11-23 15:33:20 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Factory New), Steamprice=211.76, Success=true}
+2023-11-23 15:33:20 DEBUG Logger:159 - [19/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Field-Tested)
+2023-11-23 15:33:20 DEBUG Logger:166 - {volume=283, success=true, lowest_price=25,24€, median_price=25,09€}
+2023-11-23 15:33:20 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Field-Tested), Steamprice=25.24, Success=true}
+2023-11-23 15:33:20 DEBUG Logger:159 - [20/21595]Current HashName: AK-47%20%7C%20Asiimov%20(Minimal%20Wear)
+2023-11-23 15:33:21 ERROR Logger:170 - 429 Too Many Requests: "?�????????�+��??O��%????"
+2023-11-23 15:33:21 ERROR Logger:171 - [Ljava.lang.StackTraceElement;@777d0bc3
+2023-11-23 15:33:21 DEBUG Logger:172 - Generated URI: https://steamcommunity.com/market/priceoverview/?appid=730&currency=3&market_hash_name=AK-47%20%7C%20Asiimov%20(Minimal%20Wear)
+2023-11-23 15:33:21 ERROR Logger:177 - You sent too many requests to the Steammarket
+2023-11-23 15:33:21 ERROR Logger:178 - Waiting for 61 Minutes...
+2023-11-23 15:34:44 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 16572 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:34:44 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:34:45 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.028 seconds (process running for 1.862)
+2023-11-23 15:34:45 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:34:45 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:34:45 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:34:45 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:34:45 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:34:45 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:34:46 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:34:47 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:34:47 DEBUG Logger:287 - Synced Proxies Sucessfully
+2023-11-23 15:34:47 DEBUG Logger:288 - Number of Proxies: 827
+2023-11-23 15:34:47 DEBUG Logger:146 - Current Proxy: 213.184.153.66:8080
+2023-11-23 15:34:47 ERROR Logger:254 - null
+2023-11-23 15:34:47 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:47 ERROR Logger:254 - null
+2023-11-23 15:34:47 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:47 ERROR Logger:254 - null
+2023-11-23 15:34:47 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - null
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - null
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - null
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - null
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - null
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - null
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:48 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Connection reset
+2023-11-23 15:34:48 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Connection reset
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Connection reset
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - null
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - null
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - null
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unexpected end of file from server
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:34:49 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Connection reset
+2023-11-23 15:34:49 ERROR Logger:255 - Restarting prematurely...
+2023-11-23 15:37:28 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 1884 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:37:28 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:37:28 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.958 seconds (process running for 1.81)
+2023-11-23 15:37:28 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:37:28 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:37:28 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:37:28 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:37:28 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:37:28 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:37:29 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:37:30 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:37:30 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:37:30 DEBUG Logger:289 - Number of Proxies: 816
+2023-11-23 15:37:30 DEBUG Logger:146 - Current Proxy: 194.182.178.90:3128
+2023-11-23 15:37:30 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-23 15:37:30 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:37:30 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-23 15:37:30 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:37:30 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-23 15:37:30 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:37:30 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Unable to tunnel through proxy. Proxy returns "HTTP/1.1 400 Bad Request"
+2023-11-23 15:37:30 ERROR Logger:256 - Restarting prematurely...
+2023-11-23 15:38:00 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25684 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:38:00 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:38:00 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.918 seconds (process running for 1.712)
+2023-11-23 15:38:00 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:38:00 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:38:00 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:38:00 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:38:00 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:38:00 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:38:01 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:38:01 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:38:02 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:38:02 DEBUG Logger:289 - Number of Proxies: 816
+2023-11-23 15:38:02 DEBUG Logger:146 - Current Proxy: 194.182.178.90:3128
+2023-11-23 15:38:02 DEBUG Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:38:02 DEBUG Logger:159 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:38:02 DEBUG Logger:166 - {volume=73, success=true, lowest_price=8,71€, median_price=8,29€}
+2023-11-23 15:38:02 DEBUG Logger:238 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.71, Success=true}
+2023-11-23 15:38:02 DEBUG Logger:159 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:38:02 DEBUG Logger:166 - {volume=69, success=true, lowest_price=13,98€, median_price=13,85€}
+2023-11-23 15:38:02 DEBUG Logger:238 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=13.98, Success=true}
+2023-11-23 15:38:02 DEBUG Logger:159 - [2/21595]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-23 15:38:03 DEBUG Logger:166 - {volume=322, success=true, lowest_price=6,17€, median_price=6,02€}
+2023-11-23 15:38:03 DEBUG Logger:238 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.17, Success=true}
+2023-11-23 15:38:03 DEBUG Logger:159 - [3/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-23 15:38:03 DEBUG Logger:166 - {volume=220, success=true, lowest_price=3,42€, median_price=3,36€}
+2023-11-23 15:38:03 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.42, Success=true}
+2023-11-23 15:38:03 DEBUG Logger:159 - [4/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-23 15:38:45 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 10724 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:38:45 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:38:46 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.975 seconds (process running for 1.776)
+2023-11-23 15:38:46 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:38:46 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:38:46 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:38:46 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:38:46 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:38:46 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:38:46 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:38:47 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:38:47 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:38:47 DEBUG Logger:289 - Number of Proxies: 806
+2023-11-23 15:38:47 DEBUG Logger:146 - Current Proxy: 157.245.46.100:31280
+2023-11-23 15:38:47 DEBUG Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:38:47 DEBUG Logger:159 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:38:48 DEBUG Logger:166 - {volume=73, success=true, lowest_price=8,69€, median_price=8,29€}
+2023-11-23 15:38:48 DEBUG Logger:238 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.69, Success=true}
+2023-11-23 15:38:48 DEBUG Logger:159 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:38:48 DEBUG Logger:166 - {volume=69, success=true, lowest_price=13,98€, median_price=13,85€}
+2023-11-23 15:38:48 DEBUG Logger:238 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=13.98, Success=true}
+2023-11-23 15:38:48 DEBUG Logger:159 - [2/21595]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-23 15:38:48 DEBUG Logger:166 - {volume=322, success=true, lowest_price=6,17€, median_price=6,02€}
+2023-11-23 15:38:48 DEBUG Logger:238 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.17, Success=true}
+2023-11-23 15:38:48 DEBUG Logger:159 - [3/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-23 15:38:49 DEBUG Logger:166 - {volume=220, success=true, lowest_price=3,42€, median_price=3,36€}
+2023-11-23 15:38:49 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.42, Success=true}
+2023-11-23 15:38:49 DEBUG Logger:159 - [4/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-23 15:38:49 DEBUG Logger:166 - {volume=310, success=true, lowest_price=3,26€, median_price=3,22€}
+2023-11-23 15:38:49 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.26, Success=true}
+2023-11-23 15:38:49 DEBUG Logger:159 - [5/21595]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-11-23 15:40:06 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 24704 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-23 15:40:06 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-23 15:40:06 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.961 seconds (process running for 1.786)
+2023-11-23 15:40:06 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-23 15:40:06 DEBUG Logger:92 - Mod: 0
+2023-11-23 15:40:06 DEBUG Logger:93 - Threads: 1
+2023-11-23 15:40:06 DEBUG Logger:98 - Arg[0]: false
+2023-11-23 15:40:06 DEBUG Logger:98 - Arg[1]: 1
+2023-11-23 15:40:06 DEBUG Logger:98 - Arg[2]: 0
+2023-11-23 15:40:06 DEBUG Logger:98 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-11-23 15:40:07 INFO  Logger:120 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:40:08 INFO  Logger:125 - Listsize: 21595
+2023-11-23 15:40:08 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-23 15:40:08 DEBUG Logger:289 - Number of Proxies: 803
+2023-11-23 15:40:08 DEBUG Logger:146 - Current Proxy: 212.108.155.205:9090
+2023-11-23 15:40:08 DEBUG Logger:150 - The global IPv4 Address is: 87.78.81.166
+2023-11-23 15:40:08 DEBUG Logger:159 - [0/21595]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-23 15:40:08 DEBUG Logger:166 - {volume=73, success=true, lowest_price=8,69€, median_price=8,29€}
+2023-11-23 15:40:08 DEBUG Logger:238 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.69, Success=true}
+2023-11-23 15:40:08 DEBUG Logger:159 - [1/21595]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-23 15:40:09 DEBUG Logger:166 - {volume=69, success=true, lowest_price=13,98€, median_price=13,85€}
+2023-11-23 15:40:09 DEBUG Logger:238 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=13.98, Success=true}
+2023-11-23 15:40:09 DEBUG Logger:159 - [2/21595]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-11-23 15:40:09 DEBUG Logger:166 - {volume=322, success=true, lowest_price=6,17€, median_price=6,02€}
+2023-11-23 15:40:09 DEBUG Logger:238 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.17, Success=true}
+2023-11-23 15:40:09 DEBUG Logger:159 - [3/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-11-23 15:40:09 DEBUG Logger:166 - {volume=220, success=true, lowest_price=3,42€, median_price=3,36€}
+2023-11-23 15:40:09 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.42, Success=true}
+2023-11-23 15:40:09 DEBUG Logger:159 - [4/21595]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-11-23 15:40:09 DEBUG Logger:166 - {volume=310, success=true, lowest_price=3,26€, median_price=3,22€}
+2023-11-23 15:40:09 DEBUG Logger:238 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.26, Success=true}
+2023-11-23 15:40:09 DEBUG Logger:159 - [5/21595]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-11-23 15:40:10 DEBUG Logger:166 - {volume=876, success=true, lowest_price=0,74€, median_price=0,74€}
+2023-11-23 15:40:10 DEBUG Logger:238 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.74, Success=true}
+2023-11-23 15:40:10 DEBUG Logger:159 - [6/21595]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-11-23 15:40:10 DEBUG Logger:166 - {volume=194, success=true, lowest_price=4,69€, median_price=4,68€}
+2023-11-23 15:40:10 DEBUG Logger:238 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=4.69, Success=true}
+2023-11-23 15:40:10 DEBUG Logger:159 - [7/21595]Current HashName: 2020%20RMR%20Challengers
+2023-11-23 15:40:10 DEBUG Logger:166 - {volume=1,312, success=true, lowest_price=0,29€, median_price=0,26€}
+2023-11-23 15:40:10 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.29, Success=true}
+2023-11-23 15:40:10 DEBUG Logger:159 - [8/21595]Current HashName: 2020%20RMR%20Contenders
+2023-11-23 15:40:11 DEBUG Logger:166 - {volume=840, success=true, lowest_price=0,37€, median_price=0,37€}
+2023-11-23 15:40:11 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Contenders, Steamprice=0.37, Success=true}
+2023-11-23 15:40:11 DEBUG Logger:159 - [9/21595]Current HashName: 2020%20RMR%20Legends
+2023-11-23 15:40:11 DEBUG Logger:166 - {volume=1,453, success=true, lowest_price=0,26€, median_price=0,26€}
+2023-11-23 15:40:11 DEBUG Logger:238 - Inserted Skin: {SkinHash=2020 RMR Legends, Steamprice=0.26, Success=true}
+2023-11-23 15:40:11 DEBUG Logger:159 - [10/21595]Current HashName: 2021%20Community%20Sticker%20Capsule
+2023-11-23 15:40:11 DEBUG Logger:166 - {volume=57, success=true, lowest_price=0,85€, median_price=0,79€}
+2023-11-23 15:40:11 DEBUG Logger:238 - Inserted Skin: {SkinHash=2021 Community Sticker Capsule, Steamprice=0.85, Success=true}
+2023-11-23 15:40:11 DEBUG Logger:159 - [11/21595]Current HashName: 3rd%20Commando%20Company%20%7C%20KSK
+2023-11-23 15:40:11 DEBUG Logger:166 - {volume=198, success=true, lowest_price=6,61€, median_price=7,38€}
+2023-11-23 15:40:11 DEBUG Logger:238 - Inserted Skin: {SkinHash=3rd Commando Company | KSK, Steamprice=6.61, Success=true}
+2023-11-23 15:40:11 DEBUG Logger:159 - [12/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Battle-Scarred)
+2023-11-23 15:40:12 DEBUG Logger:166 - {volume=45, success=true, lowest_price=17,07€, median_price=16,79€}
+2023-11-23 15:40:12 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Battle-Scarred), Steamprice=17.07, Success=true}
+2023-11-23 15:40:12 DEBUG Logger:159 - [13/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Factory%20New)
+2023-11-23 15:40:12 DEBUG Logger:166 - {volume=3, success=true, lowest_price=91,12€, median_price=92,65€}
+2023-11-23 15:40:12 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Factory New), Steamprice=91.12, Success=true}
+2023-11-23 15:40:12 DEBUG Logger:159 - [14/21595]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Field-Tested)
+2023-11-23 15:40:12 DEBUG Logger:166 - {volume=54, success=true, lowest_price=26,95€, median_price=27,69€}
+2023-11-23 15:40:12 DEBUG Logger:238 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Field-Tested), Steamprice=26.95, Success=true}
+2023-11-23 15:40:12 DEBUG Logger:146 - Current Proxy: 218.23.15.154:9002
+2023-11-29 17:44:43 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 27012 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-29 17:44:43 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-29 17:44:43 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.15 seconds (process running for 2.144)
+2023-11-29 17:44:43 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-29 17:44:43 DEBUG Logger:92 - Mod: 0
+2023-11-29 17:44:43 DEBUG Logger:93 - Threads: 1
+2023-11-29 17:44:43 DEBUG Logger:98 - Arg[0]: false
+2023-11-29 17:44:43 DEBUG Logger:98 - Arg[1]: 1
+2023-11-29 17:44:43 DEBUG Logger:98 - Arg[2]: 0
+2023-11-29 17:44:43 DEBUG Logger:98 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-11-29 17:44:44 INFO  Logger:120 - The global IPv4 Address is: 87.78.1.14
+2023-11-29 17:44:45 INFO  Logger:125 - Listsize: 21600
+2023-11-29 17:44:45 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-29 17:44:45 DEBUG Logger:289 - Number of Proxies: 848
+2023-11-29 17:44:45 DEBUG Logger:146 - Current Proxy: 54.39.125.52:3128
+2023-11-29 17:44:46 DEBUG Logger:150 - The global IPv4 Address is: 87.78.1.14
+2023-11-29 17:44:46 DEBUG Logger:159 - [0/21600]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-11-29 17:44:46 DEBUG Logger:166 - {volume=74, success=true, lowest_price=9,59€, median_price=9,12€}
+2023-11-29 17:44:46 DEBUG Logger:238 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=9.59, Success=true}
+2023-11-29 17:44:46 DEBUG Logger:159 - [1/21600]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-11-29 18:03:29 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 28992 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-11-29 18:03:29 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-11-29 18:03:30 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.932 seconds (process running for 1.76)
+2023-11-29 18:03:30 DEBUG Logger:91 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-11-29 18:03:30 DEBUG Logger:92 - Mod: 0
+2023-11-29 18:03:30 DEBUG Logger:93 - Threads: 1
+2023-11-29 18:03:30 DEBUG Logger:98 - Arg[0]: false
+2023-11-29 18:03:30 DEBUG Logger:98 - Arg[1]: 1
+2023-11-29 18:03:30 DEBUG Logger:98 - Arg[2]: 0
+2023-11-29 18:03:30 DEBUG Logger:98 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-11-29 18:03:30 INFO  Logger:120 - The global IPv4 Address is: 87.78.1.14
+2023-11-29 18:03:31 INFO  Logger:125 - Listsize: 21600
+2023-11-29 18:03:31 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-29 18:03:31 DEBUG Logger:289 - Number of Proxies: 277
+2023-11-29 18:03:31 DEBUG Logger:146 - Current Proxy: 184.170.245.148:4145
+2023-11-29 18:03:31 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Network is unreachable: connect
+2023-11-29 18:03:31 ERROR Logger:256 - Restarting prematurely...
+2023-11-29 18:03:32 INFO  Logger:120 - The global IPv4 Address is: 87.78.1.14
+2023-11-29 18:03:32 INFO  Logger:125 - Listsize: 21600
+2023-11-29 18:03:32 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-29 18:03:32 DEBUG Logger:289 - Number of Proxies: 277
+2023-11-29 18:03:32 DEBUG Logger:146 - Current Proxy: 184.170.245.148:4145
+2023-11-29 18:03:32 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Network is unreachable: connect
+2023-11-29 18:03:32 ERROR Logger:256 - Restarting prematurely...
+2023-11-29 18:03:33 INFO  Logger:120 - The global IPv4 Address is: 87.78.1.14
+2023-11-29 18:03:33 INFO  Logger:125 - Listsize: 21600
+2023-11-29 18:03:33 DEBUG Logger:288 - Synced Proxies Sucessfully
+2023-11-29 18:03:33 DEBUG Logger:289 - Number of Proxies: 277
+2023-11-29 18:03:33 DEBUG Logger:146 - Current Proxy: 184.170.245.148:4145
+2023-11-29 18:03:33 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Network is unreachable: connect
+2023-11-29 18:03:33 ERROR Logger:256 - Restarting prematurely...
