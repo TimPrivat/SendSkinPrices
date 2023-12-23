@@ -75,8 +75,8 @@ public class SendSkinPricesApplication {
 
 
         }
-         String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
-        //String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
+        // String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
+        String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
         logger.info("LogfilePath: " + logpath);
 
 
