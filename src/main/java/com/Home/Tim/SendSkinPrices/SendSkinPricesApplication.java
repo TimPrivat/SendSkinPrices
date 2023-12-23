@@ -5,30 +5,24 @@ import org.apache.commons.exec.DefaultExecutor;
 import org.apache.commons.exec.ExecuteException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import org.json.JSONObject;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.PropertySource;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
-import java.io.InputStreamReader;
+import java.net.InetAddress;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.net.URLEncoder;
-import java.nio.charset.StandardCharsets;
-import java.util.*;
+import java.net.UnknownHostException;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 
 @PropertySource("classpath:application.properties")
@@ -329,13 +323,14 @@ public class SendSkinPricesApplication {
      */
     public static String getHostname() throws IOException {
 
-        Process hostname = Runtime.getRuntime().exec("hostname");
+       String hostName = "";
+    try {
+        InetAddress inetAddress = InetAddress.getLocalHost();
+        hostName = inetAddress.getHostName();
+    } catch (UnknownHostException e) {
 
-        BufferedReader stdInput = new BufferedReader(new
-                InputStreamReader(hostname.getInputStream()));
-        String name = stdInput.readLine();
-
-        return name;
+    }
+    return hostName;
     }
 
 

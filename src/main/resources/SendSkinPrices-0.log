@@ -2171,3 +2171,22 @@ Check the configured web application type.
 2023-12-23 18:06:09 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Redline (Minimal Wear), Steamprice=79.35, Success=true}
 2023-12-23 18:06:15 DEBUG Logger:173 - [182/21614]Current HashName: AK-47%20%7C%20Redline%20(Well-Worn)
 2023-12-23 18:06:15 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Redline (Well-Worn), Steamprice=14.26, Success=true}
+2023-12-23 18:16:35 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 5480 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 18:16:35 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 18:16:36 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-23 18:16:36 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-23 18:16:36 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-23 18:16:36 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-23 18:16:36 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-23 18:16:36 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 899 ms
+2023-12-23 18:16:36 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-23 18:16:36 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-23 18:16:36 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.654 seconds (process running for 2.475)
+2023-12-23 18:16:36 DEBUG Logger:90 - Hostname: Haupt-PC
+2023-12-23 18:16:36 DEBUG Logger:92 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 18:16:36 DEBUG Logger:93 - Mod: 0
+2023-12-23 18:16:36 DEBUG Logger:94 - Threads: 1
+2023-12-23 18:16:36 DEBUG Logger:99 - Arg[0]: false
+2023-12-23 18:16:36 DEBUG Logger:99 - Arg[1]: 1
+2023-12-23 18:16:36 DEBUG Logger:99 - Arg[2]: 0
+2023-12-23 18:16:36 DEBUG Logger:114 - Using Default IP!
