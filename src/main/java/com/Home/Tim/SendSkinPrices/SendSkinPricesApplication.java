@@ -15,19 +15,25 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.*;
 
-@Component
+
 @PropertySource("classpath:application.properties")
 @SpringBootApplication
+@Component
 public class SendSkinPricesApplication {
 
 
@@ -43,6 +49,10 @@ public class SendSkinPricesApplication {
 
     static String logpath;
     static int workerid;
+
+    //Used for the main loop
+    static int i=0;
+
 
     public static void main(String[] args) throws InterruptedException, IOException, URISyntaxException {
 
@@ -65,8 +75,8 @@ public class SendSkinPricesApplication {
 
 
         }
-        // String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
-        String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
+         String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
+        //String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
         logger.info("LogfilePath: " + logpath);
 
 
@@ -81,6 +91,9 @@ public class SendSkinPricesApplication {
 
 
         ConfigurableApplicationContext ctx = SpringApplication.run(SendSkinPricesApplication.class, args);
+
+        final String HOSTNAME = getHostname();
+        logger.debug("Hostname: "+HOSTNAME);
 
         logger.debug("LogPath: " + logpath);
         logger.debug("Mod: " + workerid);
@@ -153,7 +166,7 @@ public class SendSkinPricesApplication {
 
             try {
 
-                for (int i = 0; i < allHashnames.size(); i++) {
+                for (i = 0; i < allHashnames.size(); i++) {
                     if (i % threads == mod) {
 
                         String hashname = allHashnames.get(i);
@@ -308,6 +321,26 @@ public class SendSkinPricesApplication {
 
 
     }
+
+    /**
+     * Helpermethod to return the Systems Hostname
+     * @return
+     * @throws IOException
+     */
+    public static String getHostname() throws IOException {
+
+        Process hostname = Runtime.getRuntime().exec("hostname");
+
+        BufferedReader stdInput = new BufferedReader(new
+                InputStreamReader(hostname.getInputStream()));
+        String name = stdInput.readLine();
+
+        return name;
+    }
+
+
+
+
 
 
 }

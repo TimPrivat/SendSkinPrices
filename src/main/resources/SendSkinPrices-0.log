@@ -1786,3 +1786,388 @@
 2023-11-29 18:03:33 DEBUG Logger:146 - Current Proxy: 184.170.245.148:4145
 2023-11-29 18:03:33 ERROR Logger:254 - I/O error on GET request for "https://ipinfo.io/ip": Network is unreachable: connect
 2023-11-29 18:03:33 ERROR Logger:256 - Restarting prematurely...
+2023-12-22 15:29:19 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 28824 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-22 15:29:19 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-22 15:29:20 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.659 seconds (process running for 2.581)
+2023-12-22 15:29:20 DEBUG Logger:85 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-22 15:29:20 DEBUG Logger:86 - Mod: 0
+2023-12-22 15:29:20 DEBUG Logger:87 - Threads: 1
+2023-12-22 15:29:20 DEBUG Logger:92 - Arg[0]: false
+2023-12-22 15:29:20 DEBUG Logger:92 - Arg[1]: 1
+2023-12-22 15:29:20 DEBUG Logger:92 - Arg[2]: 0
+2023-12-22 15:29:20 DEBUG Logger:92 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-22 15:29:20 DEBUG Logger:107 - Using Default IP!
+2023-12-22 15:29:31 INFO  Logger:113 - The global IPv4 Address is: 78.35.142.232
+2023-12-22 15:29:32 INFO  Logger:152 - Listsize: 21613
+2023-12-22 15:29:32 DEBUG Logger:160 - [0/21613]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-22 15:29:33 DEBUG Logger:264 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.99, Success=true}
+2023-12-22 15:29:39 DEBUG Logger:160 - [1/21613]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-22 15:29:39 DEBUG Logger:264 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=15.01, Success=true}
+2023-12-22 15:29:45 DEBUG Logger:160 - [2/21613]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-22 15:29:46 DEBUG Logger:264 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.13, Success=true}
+2023-12-22 15:29:52 DEBUG Logger:160 - [3/21613]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-22 15:29:52 DEBUG Logger:264 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.65, Success=true}
+2023-12-23 15:09:40 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 4056 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 15:09:40 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 15:09:41 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.455 seconds (process running for 2.877)
+2023-12-23 15:09:41 DEBUG Logger:90 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 15:09:41 DEBUG Logger:91 - Mod: 0
+2023-12-23 15:09:41 DEBUG Logger:92 - Threads: 1
+2023-12-23 15:09:41 DEBUG Logger:97 - Arg[0]: false
+2023-12-23 15:09:41 DEBUG Logger:97 - Arg[1]: 1
+2023-12-23 15:09:41 DEBUG Logger:97 - Arg[2]: 0
+2023-12-23 15:09:41 DEBUG Logger:97 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 15:09:41 DEBUG Logger:112 - Using Default IP!
+2023-12-23 15:09:52 INFO  Logger:118 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 15:09:53 INFO  Logger:157 - Listsize: 21615
+2023-12-23 15:09:53 DEBUG Logger:165 - [0/21615]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 15:09:54 DEBUG Logger:269 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.28, Success=true}
+2023-12-23 15:10:00 DEBUG Logger:165 - [1/21615]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 15:10:00 DEBUG Logger:269 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.34, Success=true}
+2023-12-23 15:11:15 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 9860 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 15:11:16 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 15:11:16 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.988 seconds (process running for 1.795)
+2023-12-23 15:11:16 DEBUG Logger:90 - Hostname: Haupt-PC
+2023-12-23 15:11:16 DEBUG Logger:92 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 15:11:16 DEBUG Logger:93 - Mod: 0
+2023-12-23 15:11:16 DEBUG Logger:94 - Threads: 1
+2023-12-23 15:11:16 DEBUG Logger:99 - Arg[0]: false
+2023-12-23 15:11:16 DEBUG Logger:99 - Arg[1]: 1
+2023-12-23 15:11:16 DEBUG Logger:99 - Arg[2]: 0
+2023-12-23 15:11:16 DEBUG Logger:99 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 15:11:16 DEBUG Logger:114 - Using Default IP!
+2023-12-23 17:43:03 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 24112 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:43:03 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:43:03 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.911 seconds (process running for 1.708)
+2023-12-23 17:43:03 DEBUG Logger:94 - Hostname: Haupt-PC
+2023-12-23 17:43:03 DEBUG Logger:96 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:43:03 DEBUG Logger:97 - Mod: 0
+2023-12-23 17:43:03 DEBUG Logger:98 - Threads: 1
+2023-12-23 17:43:03 DEBUG Logger:103 - Arg[0]: false
+2023-12-23 17:43:03 DEBUG Logger:103 - Arg[1]: 1
+2023-12-23 17:43:03 DEBUG Logger:103 - Arg[2]: 0
+2023-12-23 17:43:03 DEBUG Logger:103 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:43:03 DEBUG Logger:118 - Using Default IP!
+2023-12-23 17:43:14 INFO  Logger:124 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:43:15 INFO  Logger:163 - Listsize: 21614
+2023-12-23 17:43:15 DEBUG Logger:171 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 17:43:15 DEBUG Logger:275 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 17:43:21 DEBUG Logger:171 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 17:43:22 DEBUG Logger:275 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 17:43:28 DEBUG Logger:171 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 17:43:28 DEBUG Logger:275 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.0, Success=true}
+2023-12-23 17:43:34 DEBUG Logger:171 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 17:43:34 DEBUG Logger:275 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.63, Success=true}
+2023-12-23 17:43:40 DEBUG Logger:171 - [4/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-12-23 17:43:41 DEBUG Logger:275 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.46, Success=true}
+2023-12-23 17:43:47 DEBUG Logger:171 - [5/21614]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-12-23 17:43:47 DEBUG Logger:275 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.72, Success=true}
+2023-12-23 17:43:53 DEBUG Logger:171 - [6/21614]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-12-23 17:43:54 DEBUG Logger:275 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=5.18, Success=true}
+2023-12-23 17:44:00 DEBUG Logger:171 - [7/21614]Current HashName: 2020%20RMR%20Challengers
+2023-12-23 17:44:00 DEBUG Logger:275 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.25, Success=true}
+2023-12-23 17:44:06 DEBUG Logger:171 - [8/21614]Current HashName: 2020%20RMR%20Contenders
+2023-12-23 17:44:07 DEBUG Logger:275 - Inserted Skin: {SkinHash=2020 RMR Contenders, Steamprice=0.3, Success=true}
+2023-12-23 17:44:13 DEBUG Logger:171 - [9/21614]Current HashName: 2020%20RMR%20Legends
+2023-12-23 17:44:22 DEBUG Logger:275 - Inserted Skin: {SkinHash=2020 RMR Legends, Steamprice=0.21, Success=true}
+2023-12-23 17:44:28 DEBUG Logger:171 - [10/21614]Current HashName: 2021%20Community%20Sticker%20Capsule
+2023-12-23 17:44:28 DEBUG Logger:275 - Inserted Skin: {SkinHash=2021 Community Sticker Capsule, Steamprice=0.87, Success=true}
+2023-12-23 17:44:34 DEBUG Logger:171 - [11/21614]Current HashName: 3rd%20Commando%20Company%20%7C%20KSK
+2023-12-23 17:44:35 DEBUG Logger:275 - Inserted Skin: {SkinHash=3rd Commando Company | KSK, Steamprice=7.29, Success=true}
+2023-12-23 17:45:05 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 6020 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:45:05 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:45:05 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.11 seconds (process running for 2.092)
+2023-12-23 17:45:05 DEBUG Logger:94 - Hostname: Haupt-PC
+2023-12-23 17:45:05 DEBUG Logger:96 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:45:05 DEBUG Logger:97 - Mod: 0
+2023-12-23 17:45:05 DEBUG Logger:98 - Threads: 1
+2023-12-23 17:45:05 DEBUG Logger:103 - Arg[0]: false
+2023-12-23 17:45:05 DEBUG Logger:103 - Arg[1]: 1
+2023-12-23 17:45:05 DEBUG Logger:103 - Arg[2]: 0
+2023-12-23 17:45:05 DEBUG Logger:103 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:45:05 DEBUG Logger:118 - Using Default IP!
+2023-12-23 17:45:16 INFO  Logger:124 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:47:25 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 8028 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:47:25 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:47:25 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.97 seconds (process running for 1.832)
+2023-12-23 17:47:25 DEBUG Logger:94 - Hostname: Haupt-PC
+2023-12-23 17:47:25 DEBUG Logger:96 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:47:25 DEBUG Logger:97 - Mod: 0
+2023-12-23 17:47:25 DEBUG Logger:98 - Threads: 1
+2023-12-23 17:47:25 DEBUG Logger:103 - Arg[0]: false
+2023-12-23 17:47:25 DEBUG Logger:103 - Arg[1]: 1
+2023-12-23 17:47:25 DEBUG Logger:103 - Arg[2]: 0
+2023-12-23 17:47:25 DEBUG Logger:103 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:47:25 DEBUG Logger:118 - Using Default IP!
+2023-12-23 17:47:38 INFO  Logger:124 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:48:30 INFO  Logger:163 - Listsize: 21614
+2023-12-23 17:48:31 DEBUG Logger:171 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 17:48:31 DEBUG Logger:275 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 17:48:37 DEBUG Logger:171 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 17:48:40 DEBUG Logger:275 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 17:49:08 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 12180 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:49:08 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:49:09 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.011 seconds (process running for 1.825)
+2023-12-23 17:49:09 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 17:49:09 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:49:09 DEBUG Logger:99 - Mod: 0
+2023-12-23 17:49:09 DEBUG Logger:100 - Threads: 1
+2023-12-23 17:49:09 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 17:49:09 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 17:49:09 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 17:49:09 DEBUG Logger:105 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:49:09 DEBUG Logger:120 - Using Default IP!
+2023-12-23 17:49:20 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:49:44 INFO  Logger:165 - Listsize: 21614
+2023-12-23 17:49:44 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 17:49:44 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 17:49:50 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 17:49:51 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 17:49:57 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 17:49:57 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=5.99, Success=true}
+2023-12-23 17:50:03 DEBUG Logger:173 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 17:50:04 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.63, Success=true}
+2023-12-23 17:50:10 DEBUG Logger:173 - [4/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-12-23 17:50:18 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.46, Success=true}
+2023-12-23 17:50:24 DEBUG Logger:173 - [5/21614]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-12-23 17:50:25 DEBUG Logger:277 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.72, Success=true}
+2023-12-23 17:50:31 DEBUG Logger:173 - [6/21614]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-12-23 17:50:31 DEBUG Logger:277 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=5.18, Success=true}
+2023-12-23 17:50:37 DEBUG Logger:173 - [7/21614]Current HashName: 2020%20RMR%20Challengers
+2023-12-23 17:50:38 DEBUG Logger:277 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.25, Success=true}
+2023-12-23 17:50:44 DEBUG Logger:173 - [8/21614]Current HashName: 2020%20RMR%20Contenders
+2023-12-23 17:50:44 DEBUG Logger:277 - Inserted Skin: {SkinHash=2020 RMR Contenders, Steamprice=0.29, Success=true}
+2023-12-23 17:50:50 DEBUG Logger:173 - [9/21614]Current HashName: 2020%20RMR%20Legends
+2023-12-23 17:50:51 DEBUG Logger:277 - Inserted Skin: {SkinHash=2020 RMR Legends, Steamprice=0.21, Success=true}
+2023-12-23 17:50:57 DEBUG Logger:173 - [10/21614]Current HashName: 2021%20Community%20Sticker%20Capsule
+2023-12-23 17:50:58 DEBUG Logger:277 - Inserted Skin: {SkinHash=2021 Community Sticker Capsule, Steamprice=0.87, Success=true}
+2023-12-23 17:51:04 DEBUG Logger:173 - [11/21614]Current HashName: 3rd%20Commando%20Company%20%7C%20KSK
+2023-12-23 17:51:08 DEBUG Logger:277 - Inserted Skin: {SkinHash=3rd Commando Company | KSK, Steamprice=6.99, Success=true}
+2023-12-23 17:51:14 DEBUG Logger:173 - [12/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Battle-Scarred)
+2023-12-23 17:51:15 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Battle-Scarred), Steamprice=16.95, Success=true}
+2023-12-23 17:51:21 DEBUG Logger:173 - [13/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Factory%20New)
+2023-12-23 17:51:23 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Factory New), Steamprice=95.25, Success=true}
+2023-12-23 17:51:29 DEBUG Logger:173 - [14/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Field-Tested)
+2023-12-23 17:51:30 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Field-Tested), Steamprice=27.79, Success=true}
+2023-12-23 17:51:36 DEBUG Logger:173 - [15/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Minimal%20Wear)
+2023-12-23 17:51:36 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Minimal Wear), Steamprice=50.68, Success=true}
+2023-12-23 17:51:42 DEBUG Logger:173 - [16/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Well-Worn)
+2023-12-23 17:51:44 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Well-Worn), Steamprice=18.91, Success=true}
+2023-12-23 17:51:50 DEBUG Logger:173 - [17/21614]Current HashName: AK-47%20%7C%20Asiimov%20(Battle-Scarred)
+2023-12-23 17:51:50 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Battle-Scarred), Steamprice=18.9, Success=true}
+2023-12-23 17:51:56 DEBUG Logger:173 - [18/21614]Current HashName: AK-47%20%7C%20Asiimov%20(Factory%20New)
+2023-12-23 17:51:57 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Asiimov (Factory New), Steamprice=223.88, Success=true}
+2023-12-23 17:52:45 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 19256 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:52:45 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:52:46 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.016 seconds (process running for 1.825)
+2023-12-23 17:52:46 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 17:52:46 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:52:46 DEBUG Logger:99 - Mod: 0
+2023-12-23 17:52:46 DEBUG Logger:100 - Threads: 1
+2023-12-23 17:52:46 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 17:52:46 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 17:52:46 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 17:52:46 DEBUG Logger:105 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:52:46 DEBUG Logger:120 - Using Default IP!
+2023-12-23 17:52:57 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:53:13 INFO  Logger:165 - Listsize: 21614
+2023-12-23 17:53:13 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 17:53:15 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 17:53:21 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 17:53:27 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 17:53:33 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 17:53:34 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=5.99, Success=true}
+2023-12-23 17:53:40 DEBUG Logger:173 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 17:53:41 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.63, Success=true}
+2023-12-23 17:53:47 DEBUG Logger:173 - [4/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-12-23 17:53:47 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.46, Success=true}
+2023-12-23 17:53:53 DEBUG Logger:173 - [5/21614]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-12-23 17:53:54 DEBUG Logger:277 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.72, Success=true}
+2023-12-23 17:54:00 DEBUG Logger:173 - [6/21614]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-12-23 17:54:01 DEBUG Logger:277 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=5.18, Success=true}
+2023-12-23 17:54:07 DEBUG Logger:173 - [7/21614]Current HashName: 2020%20RMR%20Challengers
+2023-12-23 17:54:10 DEBUG Logger:277 - Inserted Skin: {SkinHash=2020 RMR Challengers, Steamprice=0.25, Success=true}
+2023-12-23 17:54:16 DEBUG Logger:173 - [8/21614]Current HashName: 2020%20RMR%20Contenders
+2023-12-23 17:54:17 DEBUG Logger:277 - Inserted Skin: {SkinHash=2020 RMR Contenders, Steamprice=0.3, Success=true}
+2023-12-23 17:54:23 DEBUG Logger:173 - [9/21614]Current HashName: 2020%20RMR%20Legends
+2023-12-23 17:54:24 DEBUG Logger:277 - Inserted Skin: {SkinHash=2020 RMR Legends, Steamprice=0.21, Success=true}
+2023-12-23 17:54:30 DEBUG Logger:173 - [10/21614]Current HashName: 2021%20Community%20Sticker%20Capsule
+2023-12-23 17:54:31 DEBUG Logger:277 - Inserted Skin: {SkinHash=2021 Community Sticker Capsule, Steamprice=0.87, Success=true}
+2023-12-23 17:54:37 DEBUG Logger:173 - [11/21614]Current HashName: 3rd%20Commando%20Company%20%7C%20KSK
+2023-12-23 17:54:37 DEBUG Logger:277 - Inserted Skin: {SkinHash=3rd Commando Company | KSK, Steamprice=6.99, Success=true}
+2023-12-23 17:54:43 DEBUG Logger:173 - [12/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Battle-Scarred)
+2023-12-23 17:54:44 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Battle-Scarred), Steamprice=16.95, Success=true}
+2023-12-23 17:54:50 DEBUG Logger:173 - [13/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Factory%20New)
+2023-12-23 17:54:50 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Factory New), Steamprice=95.25, Success=true}
+2023-12-23 17:54:56 DEBUG Logger:173 - [14/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Field-Tested)
+2023-12-23 17:54:58 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Field-Tested), Steamprice=27.79, Success=true}
+2023-12-23 17:55:04 DEBUG Logger:173 - [15/21614]Current HashName: AK-47%20%7C%20Aquamarine%20Revenge%20(Minimal%20Wear)
+2023-12-23 17:55:06 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Aquamarine Revenge (Minimal Wear), Steamprice=52.3, Success=true}
+2023-12-23 17:57:36 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 4852 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:57:36 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:57:37 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.9 seconds (process running for 1.695)
+2023-12-23 17:57:37 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 17:57:37 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:57:37 DEBUG Logger:99 - Mod: 0
+2023-12-23 17:57:37 DEBUG Logger:100 - Threads: 1
+2023-12-23 17:57:37 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 17:57:37 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 17:57:37 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 17:57:37 DEBUG Logger:105 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:57:37 DEBUG Logger:120 - Using Default IP!
+2023-12-23 17:57:47 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:57:48 INFO  Logger:165 - Listsize: 21614
+2023-12-23 17:57:48 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 17:57:48 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 17:57:54 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 17:57:55 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 17:58:01 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 17:58:01 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=5.99, Success=true}
+2023-12-23 17:58:07 DEBUG Logger:173 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 17:58:07 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.5, Success=true}
+2023-12-23 17:58:45 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 22324 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 17:58:45 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 17:58:45 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.927 seconds (process running for 1.74)
+2023-12-23 17:58:45 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 17:58:45 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 17:58:45 DEBUG Logger:99 - Mod: 0
+2023-12-23 17:58:45 DEBUG Logger:100 - Threads: 1
+2023-12-23 17:58:45 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 17:58:45 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 17:58:45 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 17:58:45 DEBUG Logger:105 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 17:58:45 DEBUG Logger:120 - Using Default IP!
+2023-12-23 17:58:56 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 17:58:57 INFO  Logger:165 - Listsize: 21614
+2023-12-23 17:58:57 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 17:58:57 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 17:59:03 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 17:59:03 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 17:59:09 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 17:59:10 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=5.99, Success=true}
+2023-12-23 17:59:16 DEBUG Logger:173 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 17:59:16 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.5, Success=true}
+2023-12-23 17:59:22 DEBUG Logger:173 - [4/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-12-23 17:59:23 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.46, Success=true}
+2023-12-23 17:59:29 DEBUG Logger:173 - [5/21614]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-12-23 17:59:29 DEBUG Logger:277 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.72, Success=true}
+2023-12-23 18:02:07 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 4580 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 18:02:07 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 18:02:08 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.954 seconds (process running for 1.758)
+2023-12-23 18:02:08 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 18:02:08 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 18:02:08 DEBUG Logger:99 - Mod: 0
+2023-12-23 18:02:08 DEBUG Logger:100 - Threads: 1
+2023-12-23 18:02:08 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 18:02:08 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 18:02:08 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 18:02:08 DEBUG Logger:105 - Arg[3]: -Djava.net.useSystemProxies=true
+2023-12-23 18:02:08 DEBUG Logger:120 - Using Default IP!
+2023-12-23 18:02:18 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 18:02:19 INFO  Logger:165 - Listsize: 21614
+2023-12-23 18:02:19 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 18:02:19 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 18:02:25 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 18:02:26 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 18:02:32 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 18:02:32 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.0, Success=true}
+2023-12-23 18:02:38 DEBUG Logger:173 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 18:02:38 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.5, Success=true}
+2023-12-23 18:02:47 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 18640 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 18:02:47 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 18:02:47 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.958 seconds (process running for 1.777)
+2023-12-23 18:02:47 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 18:02:47 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 18:02:47 DEBUG Logger:99 - Mod: 0
+2023-12-23 18:02:47 DEBUG Logger:100 - Threads: 1
+2023-12-23 18:02:47 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 18:02:47 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 18:02:47 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 18:02:47 DEBUG Logger:120 - Using Default IP!
+2023-12-23 18:02:58 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 18:02:59 INFO  Logger:165 - Listsize: 21614
+2023-12-23 18:02:59 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 18:03:00 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 18:03:06 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 18:03:06 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 18:03:12 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 18:03:13 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.0, Success=true}
+2023-12-23 18:03:19 DEBUG Logger:173 - [3/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20TACP%20Cavalry
+2023-12-23 18:03:19 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | TACP Cavalry, Steamprice=3.5, Success=true}
+2023-12-23 18:03:25 DEBUG Logger:173 - [4/21614]Current HashName: %27Two%20Times%27%20McCoy%20%7C%20USAF%20TACP
+2023-12-23 18:03:25 DEBUG Logger:277 - Inserted Skin: {SkinHash='Two Times' McCoy | USAF TACP, Steamprice=3.48, Success=true}
+2023-12-23 18:03:31 DEBUG Logger:173 - [5/21614]Current HashName: 10%20Year%20Birthday%20Sticker%20Capsule
+2023-12-23 18:03:32 DEBUG Logger:277 - Inserted Skin: {SkinHash=10 Year Birthday Sticker Capsule, Steamprice=0.72, Success=true}
+2023-12-23 18:03:38 DEBUG Logger:173 - [6/21614]Current HashName: 1st%20Lieutenant%20Farlow%20%7C%20SWAT
+2023-12-23 18:03:38 DEBUG Logger:277 - Inserted Skin: {SkinHash=1st Lieutenant Farlow | SWAT, Steamprice=5.25, Success=true}
+2023-12-23 18:04:17 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 19892 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 18:04:17 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 18:04:17 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 0.534 seconds (process running for 1.379)
+2023-12-23 18:04:17 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 18:04:17 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 18:04:17 DEBUG Logger:99 - Mod: 0
+2023-12-23 18:04:17 DEBUG Logger:100 - Threads: 1
+2023-12-23 18:04:17 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 18:04:17 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 18:04:17 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 18:04:17 DEBUG Logger:120 - Using Default IP!
+2023-12-23 18:04:28 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 18:04:29 INFO  Logger:165 - Listsize: 21614
+2023-12-23 18:04:29 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 18:04:29 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 18:04:35 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 18:04:35 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 18:04:41 DEBUG Logger:173 - [2/21614]Current HashName: %27The%20Doctor%27%20Romanov%20%7C%20Sabre
+2023-12-23 18:04:42 DEBUG Logger:277 - Inserted Skin: {SkinHash='The Doctor' Romanov | Sabre, Steamprice=6.0, Success=true}
+2023-12-23 18:05:06 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 21492 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 18:05:06 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 18:05:06 WARN  AnnotationConfigServletWebServerApplicationContext:624 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2023-12-23 18:05:06 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.servlet.server.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2023-12-23 18:05:43 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 26504 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-23 18:05:43 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-23 18:05:44 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-23 18:05:44 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-23 18:05:44 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-23 18:05:44 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-23 18:05:44 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-23 18:05:44 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1056 ms
+2023-12-23 18:05:44 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-23 18:05:44 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-23 18:05:44 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.806 seconds (process running for 2.629)
+2023-12-23 18:05:44 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-23 18:05:44 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-23 18:05:44 DEBUG Logger:99 - Mod: 0
+2023-12-23 18:05:44 DEBUG Logger:100 - Threads: 1
+2023-12-23 18:05:44 DEBUG Logger:105 - Arg[0]: false
+2023-12-23 18:05:44 DEBUG Logger:105 - Arg[1]: 1
+2023-12-23 18:05:44 DEBUG Logger:105 - Arg[2]: 0
+2023-12-23 18:05:44 DEBUG Logger:120 - Using Default IP!
+2023-12-23 18:05:50 INFO  [/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-23 18:05:50 INFO  DispatcherServlet:532 - Initializing Servlet 'dispatcherServlet'
+2023-12-23 18:05:50 INFO  DispatcherServlet:554 - Completed initialization in 1 ms
+2023-12-23 18:05:55 INFO  Logger:126 - The global IPv4 Address is: 87.78.6.49
+2023-12-23 18:05:56 INFO  Logger:165 - Listsize: 21614
+2023-12-23 18:05:56 DEBUG Logger:173 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-23 18:05:56 DEBUG Logger:277 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.75, Success=true}
+2023-12-23 18:06:02 DEBUG Logger:173 - [1/21614]Current HashName: %27Medium%20Rare%27%20Crasswater%20%7C%20Guerrilla%20Warfare
+2023-12-23 18:06:02 DEBUG Logger:277 - Inserted Skin: {SkinHash='Medium Rare' Crasswater | Guerrilla Warfare, Steamprice=14.11, Success=true}
+2023-12-23 18:06:04 DEBUG Logger:18 - /updateSkin 180
+2023-12-23 18:06:04 DEBUG Logger:19 - setting index i to: 180
+2023-12-23 18:06:08 DEBUG Logger:173 - [181/21614]Current HashName: AK-47%20%7C%20Redline%20(Minimal%20Wear)
+2023-12-23 18:06:09 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Redline (Minimal Wear), Steamprice=79.35, Success=true}
+2023-12-23 18:06:15 DEBUG Logger:173 - [182/21614]Current HashName: AK-47%20%7C%20Redline%20(Well-Worn)
+2023-12-23 18:06:15 DEBUG Logger:277 - Inserted Skin: {SkinHash=AK-47 | Redline (Well-Worn), Steamprice=14.26, Success=true}
