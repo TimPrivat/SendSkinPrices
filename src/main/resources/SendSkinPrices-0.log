@@ -2190,3 +2190,212 @@ Check the configured web application type.
 2023-12-23 18:16:36 DEBUG Logger:99 - Arg[1]: 1
 2023-12-23 18:16:36 DEBUG Logger:99 - Arg[2]: 0
 2023-12-23 18:16:36 DEBUG Logger:114 - Using Default IP!
+2023-12-25 18:33:01 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 26728 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 18:33:01 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 18:33:02 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-25 18:33:02 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:33:02 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-25 18:33:02 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-25 18:33:02 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-25 18:33:02 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1210 ms
+2023-12-25 18:33:02 WARN  AnnotationConfigServletWebServerApplicationContext:624 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'controller' defined in file [E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes\com\Home\Tim\SendSkinPrices\Controller.class]: Failed to instantiate [com.Home.Tim.SendSkinPrices.Controller]: Constructor threw exception
+2023-12-25 18:33:02 INFO  StandardService:173 - Stopping service [Tomcat]
+2023-12-25 18:33:02 INFO  ConditionEvaluationReportLogger:82 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-25 18:33:02 ERROR SpringApplication:824 - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'controller' defined in file [E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes\com\Home\Tim\SendSkinPrices\Controller.class]: Failed to instantiate [com.Home.Tim.SendSkinPrices.Controller]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1314) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1199) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:950) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:738) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:440) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) [spring-boot-3.1.5.jar:3.1.5]
+	at com.Home.Tim.SendSkinPrices.SendSkinPricesApplication.main(SendSkinPricesApplication.java:93) [classes/:?]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.Home.Tim.SendSkinPrices.Controller]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1308) ~[spring-beans-6.0.13.jar:6.0.13]
+	... 17 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.springframework.core.env.Environment.getProperty(String)" because "this.environment" is null
+	at com.Home.Tim.SendSkinPrices.Controller.<init>(Controller.java:38) ~[classes/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:484) ~[?:?]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:198) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-6.0.13.jar:6.0.13]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1308) ~[spring-beans-6.0.13.jar:6.0.13]
+	... 17 more
+2023-12-25 18:34:58 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 6464 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 18:34:58 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 18:34:59 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-25 18:34:59 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:34:59 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-25 18:34:59 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-25 18:35:00 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-25 18:35:00 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1048 ms
+2023-12-25 18:35:00 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:35:00 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-25 18:35:00 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.958 seconds (process running for 2.923)
+2023-12-25 18:35:00 DEBUG Logger:96 - Hostname: Haupt-PC
+2023-12-25 18:35:00 DEBUG Logger:98 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-25 18:35:00 DEBUG Logger:99 - Mod: 0
+2023-12-25 18:35:00 DEBUG Logger:100 - Threads: 1
+2023-12-25 18:35:00 DEBUG Logger:107 - Arg[0]: false
+2023-12-25 18:35:00 DEBUG Logger:107 - Arg[1]: 1
+2023-12-25 18:35:00 DEBUG Logger:107 - Arg[2]: 0
+2023-12-25 18:35:00 DEBUG Logger:122 - Using Default IP!
+2023-12-25 18:35:11 INFO  Logger:128 - The global IPv4 Address is: 87.78.6.49
+2023-12-25 18:37:16 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 632 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 18:37:16 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 18:37:17 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-25 18:37:17 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:37:17 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-25 18:37:17 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-25 18:37:17 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-25 18:37:17 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1039 ms
+2023-12-25 18:37:17 INFO  AutowiredAnnotationBeanPostProcessor:561 - Autowired annotation is not supported on static fields: static int com.Home.Tim.SendSkinPrices.SendSkinPricesApplication.port
+2023-12-25 18:37:18 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:37:18 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-25 18:37:18 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.9 seconds (process running for 2.836)
+2023-12-25 18:37:18 DEBUG Logger:98 - Hostname: Haupt-PC
+2023-12-25 18:37:18 DEBUG Logger:100 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-25 18:37:18 DEBUG Logger:101 - Mod: 0
+2023-12-25 18:37:18 DEBUG Logger:102 - Threads: 1
+2023-12-25 18:37:18 DEBUG Logger:109 - Arg[0]: false
+2023-12-25 18:37:18 DEBUG Logger:109 - Arg[1]: 1
+2023-12-25 18:37:18 DEBUG Logger:109 - Arg[2]: 0
+2023-12-25 18:37:18 DEBUG Logger:124 - Using Default IP!
+2023-12-25 18:37:28 INFO  Logger:130 - The global IPv4 Address is: 87.78.6.49
+2023-12-25 18:37:28 INFO  Logger:134 - TomcatPort: 0
+2023-12-25 18:37:29 INFO  Logger:172 - Listsize: 21614
+2023-12-25 18:37:29 DEBUG Logger:180 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-25 18:37:29 DEBUG Logger:284 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.33, Success=true}
+2023-12-25 18:38:55 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25824 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 18:38:55 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 18:38:56 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-25 18:38:56 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:38:56 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-25 18:38:56 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-25 18:38:56 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-25 18:38:56 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1057 ms
+2023-12-25 18:38:56 INFO  AutowiredAnnotationBeanPostProcessor:561 - Autowired annotation is not supported on static fields: static int com.Home.Tim.SendSkinPrices.SendSkinPricesApplication.port
+2023-12-25 18:38:56 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-25 18:38:56 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-25 18:38:56 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.965 seconds (process running for 2.899)
+2023-12-25 18:38:56 DEBUG Logger:99 - Hostname: Haupt-PC
+2023-12-25 18:38:56 DEBUG Logger:101 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-25 18:38:56 DEBUG Logger:102 - Mod: 0
+2023-12-25 18:38:56 DEBUG Logger:103 - Threads: 1
+2023-12-25 18:38:56 DEBUG Logger:110 - Arg[0]: false
+2023-12-25 18:38:56 DEBUG Logger:110 - Arg[1]: 1
+2023-12-25 18:38:56 DEBUG Logger:110 - Arg[2]: 0
+2023-12-25 18:38:56 DEBUG Logger:125 - Using Default IP!
+2023-12-25 18:39:07 INFO  Logger:131 - The global IPv4 Address is: 87.78.6.49
+2023-12-25 18:39:07 INFO  Logger:135 - TomcatPort: 0
+2023-12-25 19:17:43 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 25160 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 19:17:43 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 19:17:43 ERROR SpringApplication:824 - Application run failed
+java.lang.IllegalStateException: Unable to load cache item
+	at org.springframework.cglib.core.internal.LoadingCache.createEntry(LoadingCache.java:75) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.internal.LoadingCache.get(LoadingCache.java:34) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.AbstractClassGenerator$ClassLoaderData.get(AbstractClassGenerator.java:130) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:317) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:562) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:407) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:531) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:308) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:358) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:150) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:779) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:597) ~[spring-context-6.0.13.jar:6.0.13]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:738) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:440) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) [spring-boot-3.1.5.jar:3.1.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) [spring-boot-3.1.5.jar:3.1.5]
+	at com.Home.Tim.SendSkinPrices.SendSkinPricesApplication.main(SendSkinPricesApplication.java:100) [classes/:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:495) ~[?:?]
+	at java.lang.Class.forName(Class.java:474) ~[?:?]
+	at org.springframework.cglib.core.ReflectUtils.defineClass(ReflectUtils.java:551) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.AbstractClassGenerator.generate(AbstractClassGenerator.java:371) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.proxy.Enhancer.generate(Enhancer.java:575) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.AbstractClassGenerator$ClassLoaderData.lambda$new$1(AbstractClassGenerator.java:107) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.internal.LoadingCache.lambda$createEntry$1(LoadingCache.java:52) ~[spring-core-6.0.13.jar:6.0.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at org.springframework.cglib.core.internal.LoadingCache.createEntry(LoadingCache.java:57) ~[spring-core-6.0.13.jar:6.0.13]
+	... 20 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.springframework.core.env.Environment.getProperty(String)" because "com.Home.Tim.SendSkinPrices.EnvVar.environment" is null
+	at com.Home.Tim.SendSkinPrices.EnvVar.<clinit>(EnvVar.java:21) ~[classes/:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:495) ~[?:?]
+	at java.lang.Class.forName(Class.java:474) ~[?:?]
+	at org.springframework.cglib.core.ReflectUtils.defineClass(ReflectUtils.java:551) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.AbstractClassGenerator.generate(AbstractClassGenerator.java:371) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.proxy.Enhancer.generate(Enhancer.java:575) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.AbstractClassGenerator$ClassLoaderData.lambda$new$1(AbstractClassGenerator.java:107) ~[spring-core-6.0.13.jar:6.0.13]
+	at org.springframework.cglib.core.internal.LoadingCache.lambda$createEntry$1(LoadingCache.java:52) ~[spring-core-6.0.13.jar:6.0.13]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at org.springframework.cglib.core.internal.LoadingCache.createEntry(LoadingCache.java:57) ~[spring-core-6.0.13.jar:6.0.13]
+	... 20 more
+2023-12-25 19:25:47 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 20520 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 19:25:47 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 19:25:48 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-25 19:25:48 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-25 19:25:48 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-25 19:25:48 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-25 19:25:49 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-25 19:25:49 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1025 ms
+2023-12-25 19:25:49 INFO  AutowiredAnnotationBeanPostProcessor:561 - Autowired annotation is not supported on static fields: static org.springframework.core.env.Environment com.Home.Tim.SendSkinPrices.SendSkinPricesApplication.environment
+2023-12-25 19:25:49 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-25 19:25:49 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-25 19:25:49 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.89 seconds (process running for 2.855)
+2023-12-25 19:25:49 DEBUG Logger:107 - Hostname: Haupt-PC
+2023-12-25 19:25:49 DEBUG Logger:109 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-25 19:25:49 DEBUG Logger:110 - Mod: 0
+2023-12-25 19:25:49 DEBUG Logger:111 - Threads: 1
+2023-12-25 19:25:49 DEBUG Logger:118 - Arg[0]: false
+2023-12-25 19:25:49 DEBUG Logger:118 - Arg[1]: 1
+2023-12-25 19:25:49 DEBUG Logger:118 - Arg[2]: 0
+2023-12-25 19:25:49 DEBUG Logger:133 - Using Default IP!
+2023-12-25 19:25:59 INFO  Logger:139 - The global IPv4 Address is: 87.78.6.49
+2023-12-25 19:28:30 INFO  SendSkinPricesApplication:51 - Starting SendSkinPricesApplication using Java 19-ea with PID 29424 (E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\target\classes started by timle in E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices)
+2023-12-25 19:28:30 INFO  SendSkinPricesApplication:638 - No active profile set, falling back to 1 default profile: "default"
+2023-12-25 19:28:31 INFO  TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2023-12-25 19:28:31 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-25 19:28:31 INFO  StandardService:173 - Starting service [Tomcat]
+2023-12-25 19:28:31 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-12-25 19:28:31 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2023-12-25 19:28:31 INFO  ServletWebServerApplicationContext:291 - Root WebApplicationContext: initialization completed in 1032 ms
+2023-12-25 19:28:31 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-25 19:28:31 INFO  TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2023-12-25 19:28:31 INFO  SendSkinPricesApplication:57 - Started SendSkinPricesApplication in 1.897 seconds (process running for 2.821)
+2023-12-25 19:28:31 DEBUG Logger:106 - Hostname: Haupt-PC
+2023-12-25 19:28:31 DEBUG Logger:108 - LogPath: E:\Mehr Programmierstuff\IntelliJProjekte\SendSkinPrices\src\main\resources\SendSkinPrices-0.log
+2023-12-25 19:28:31 DEBUG Logger:109 - Mod: 0
+2023-12-25 19:28:31 DEBUG Logger:110 - Threads: 1
+2023-12-25 19:28:31 DEBUG Logger:117 - Arg[0]: false
+2023-12-25 19:28:31 DEBUG Logger:117 - Arg[1]: 1
+2023-12-25 19:28:31 DEBUG Logger:117 - Arg[2]: 0
+2023-12-25 19:28:31 DEBUG Logger:132 - Using Default IP!
+2023-12-25 19:28:42 INFO  Logger:138 - The global IPv4 Address is: 87.78.6.49
+2023-12-25 19:28:42 INFO  Logger:142 - TomcatPort: 8080
+2023-12-25 19:28:42 INFO  Logger:180 - Listsize: 21614
+2023-12-25 19:28:42 DEBUG Logger:188 - [0/21614]Current HashName: %27Blueberries%27%20Buckshot%20%7C%20NSWC%20SEAL
+2023-12-25 19:28:43 DEBUG Logger:292 - Inserted Skin: {SkinHash='Blueberries' Buckshot | NSWC SEAL, Steamprice=8.34, Success=true}

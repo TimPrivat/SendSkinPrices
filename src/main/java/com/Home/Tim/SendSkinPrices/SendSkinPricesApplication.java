@@ -5,10 +5,15 @@ import org.apache.commons.exec.DefaultExecutor;
 import org.apache.commons.exec.ExecuteException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.web.ServerProperties;
+import org.springframework.boot.test.web.server.LocalServerPort;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
@@ -28,6 +33,7 @@ import java.util.Map;
 @PropertySource("classpath:application.properties")
 @SpringBootApplication
 @Component
+
 public class SendSkinPricesApplication {
 
 
@@ -69,8 +75,8 @@ public class SendSkinPricesApplication {
 
 
         }
-        // String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
-        String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
+         String logpath = "E:\\Mehr Programmierstuff\\IntelliJProjekte\\SendSkinPrices\\src\\main\\resources\\SendSkinPrices-" + mod + ".log";
+       // String logpath = "/var/log/SendSkinPrices-" + mod + ".log";
         logger.info("LogfilePath: " + logpath);
 
 
@@ -85,6 +91,8 @@ public class SendSkinPricesApplication {
 
 
         ConfigurableApplicationContext ctx = SpringApplication.run(SendSkinPricesApplication.class, args);
+        Environment env= ctx.getEnvironment();
+
 
         final String HOSTNAME = getHostname();
         logger.debug("Hostname: "+HOSTNAME);
@@ -94,11 +102,16 @@ public class SendSkinPricesApplication {
         logger.debug("Threads: " + threads);
 
 
+
+
         //Print args
         for (int i = 0; i < args.length; i++) {
             logger.debug("Arg[" + i + "]: " + args[i]);
         }
 
+        RestTemplate restTemplate = new RestTemplate();
+        String IPwoVPN = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
+        logger.info("The global IPv4 Without VPN Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
 
         if (useVPN) {
             logger.debug("Using VPN!");
@@ -115,10 +128,13 @@ public class SendSkinPricesApplication {
         }
         //Delay for the VPN to connect
         Thread.sleep(10000);
-        RestTemplate restTemplate = new RestTemplate();
+
         IP = restTemplate.getForObject("https://ipinfo.io/ip", String.class);
         logger.info("The global IPv4 Address is: " + restTemplate.getForObject("https://ipinfo.io/ip", String.class));
 
+
+        String Port = env.getProperty("local.server.port");
+        logger.info("TomcatPort: "+Port );
 
         /*
          Start async Thread that counts down from 300 to 0
@@ -137,9 +153,24 @@ public class SendSkinPricesApplication {
                     }
 
 
-                    if (restartTimer-- <= 0) {
+                    if (restartTimer-- <= 0 || (useVPN && (IPwoVPN ==IP))) {
                         logger.error("Sending restart Signal...");
                         //send restart signal
+                        HashMap<String,String> restartParams = new HashMap<>();
+                        try {
+
+
+                            restartParams.put("DockerID",getHostname());
+                            restartParams.put("offset", String.valueOf(i));
+                            restartParams.put("ServerPort",Port);
+
+                            logger.debug("Restarting Host with :"+restartParams);
+
+                            restTemplate.postForObject("http://hauptserver.ddns.net/restartHost",restartParams,String.class);
+
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
                     }
 
                 }
@@ -323,15 +354,9 @@ public class SendSkinPricesApplication {
      */
     public static String getHostname() throws IOException {
 
-       String hostName = "";
-    try {
-        InetAddress inetAddress = InetAddress.getLocalHost();
-        hostName = inetAddress.getHostName();
-    } catch (UnknownHostException e) {
+      return System.getenv("ContainerName");
+    }
 
-    }
-    return hostName;
-    }
 
 
 
