@@ -153,7 +153,7 @@ public class SendSkinPricesApplication {
                     }
 
 
-                    if (restartTimer-- <= 0 || (useVPN && (IPwoVPN ==IP))) {
+                    if (restartTimer-- <= 0 || (useVPN && (IPwoVPN.equals(IP)))) {
                         logger.error("Sending restart Signal...");
                         //send restart signal
                         HashMap<String,String> restartParams = new HashMap<>();
