@@ -160,13 +160,13 @@ public class SendSkinPricesApplication {
                         try {
 
 
-                            restartParams.put("DockerID",getHostname());
-                            restartParams.put("offset", String.valueOf(i));
-                            restartParams.put("ServerPort",Port);
+                            String hostname= getHostname();
+                            String offset=String.valueOf(i);
+
 
                             logger.debug("Restarting Host with :"+restartParams);
 
-                            restTemplate.postForObject("http://hauptserver.ddns.net/restartHost",restartParams,String.class);
+                            restTemplate.postForObject("http://hauptserver.ddns.net/restartHost?DockerID="+hostname+"&offset="+offset+"&serverPort="+Port,restartParams,String.class);
 
                         } catch (IOException e) {
                             throw new RuntimeException(e);
